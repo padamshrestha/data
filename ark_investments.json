@@ -1,1 +1,4644 @@
-{"movers_info":{"date":null,"max_symbol":"","max":0,"min_symbol":"","min":0},"stocks":{"DDD":[{"id":8631,"symbol":"DDD","name":"3D Systems Corp","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":8631,"dt":"2021-06-04","shares":1245906.0,"weight":6.92,"etf_name":"PRNT","weight_diff":0},{"id":8631,"symbol":"DDD","name":"3D Systems Corp","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8631,"dt":"2021-06-04","shares":3042254.0,"weight":3.17,"etf_name":"ARKQ","weight_diff":0}],"XONE":[{"id":3541,"symbol":"XONE","name":"The ExOne Company Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":3541,"dt":"2021-06-04","shares":1404628.0,"weight":5.64,"etf_name":"PRNT","weight_diff":0},{"id":3541,"symbol":"XONE","name":"The ExOne Company Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":3541,"dt":"2021-06-04","shares":774532.0,"weight":0.58,"etf_name":"ARKQ","weight_diff":0}],"DM":[{"id":3343,"symbol":"DM","name":"Desktop Metal, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":3343,"dt":"2021-06-04","shares":1894776.0,"weight":5.08,"etf_name":"PRNT","weight_diff":0}],"ALTR":[{"id":6705,"symbol":"ALTR","name":"Altair Engineering Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":6705,"dt":"2021-06-04","shares":400858.0,"weight":4.85,"etf_name":"PRNT","weight_diff":0}],"TRMB":[{"id":6304,"symbol":"TRMB","name":"Trimble Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":6304,"dt":"2021-06-04","shares":300891.0,"weight":4.3,"etf_name":"PRNT","weight_diff":0},{"id":6304,"symbol":"TRMB","name":"Trimble Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":6304,"dt":"2021-06-04","shares":1398222.0,"weight":0.54,"etf_name":"ARKK","weight_diff":0},{"id":6304,"symbol":"TRMB","name":"Trimble Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":6304,"dt":"2021-06-04","shares":2178884.0,"weight":5.84,"etf_name":"ARKQ","weight_diff":0}],"MSFT":[{"id":4853,"symbol":"MSFT","name":"Microsoft Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4853,"dt":"2021-06-04","shares":95141.0,"weight":4.29,"etf_name":"PRNT","weight_diff":0}],"HPQ":[{"id":1602,"symbol":"HPQ","name":"HP Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":1602,"dt":"2021-06-04","shares":778733.0,"weight":4.28,"etf_name":"PRNT","weight_diff":0}],"ADSK":[{"id":4512,"symbol":"ADSK","name":"Autodesk, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4512,"dt":"2021-06-04","shares":82608.0,"weight":4.16,"etf_name":"PRNT","weight_diff":0}],"ANSS":[{"id":8890,"symbol":"ANSS","name":"ANSYS, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":8890,"dt":"2021-06-04","shares":65919.0,"weight":3.99,"etf_name":"PRNT","weight_diff":0},{"id":8890,"symbol":"ANSS","name":"ANSYS, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8890,"dt":"2021-06-04","shares":94272.0,"weight":1.07,"etf_name":"ARKQ","weight_diff":0}],"PTC":[{"id":2626,"symbol":"PTC","name":"PTC Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":2626,"dt":"2021-06-04","shares":167324.0,"weight":3.98,"etf_name":"PRNT","weight_diff":0}],"SSYS":[{"id":6218,"symbol":"SSYS","name":"Stratasys, Ltd. Ordinary Shares (Israel)","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":6218,"dt":"2021-06-04","shares":147887.0,"weight":0.94,"etf_name":"IZRL","weight_diff":0},{"id":6218,"symbol":"SSYS","name":"Stratasys, Ltd. Ordinary Shares (Israel)","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":6218,"dt":"2021-06-04","shares":679289.0,"weight":2.88,"etf_name":"PRNT","weight_diff":0},{"id":6218,"symbol":"SSYS","name":"Stratasys, Ltd. Ordinary Shares (Israel)","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":6218,"dt":"2021-06-04","shares":4743848.0,"weight":0.54,"etf_name":"ARKK","weight_diff":0},{"id":6218,"symbol":"SSYS","name":"Stratasys, Ltd. Ordinary Shares (Israel)","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":6218,"dt":"2021-06-04","shares":1146335.0,"weight":0.91,"etf_name":"ARKQ","weight_diff":0}],"PRLB":[{"id":9269,"symbol":"PRLB","name":"PROTO LABS, INC.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":9269,"dt":"2021-06-04","shares":122287.0,"weight":1.98,"etf_name":"PRNT","weight_diff":0},{"id":9269,"symbol":"PRLB","name":"PROTO LABS, INC.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":9269,"dt":"2021-06-04","shares":2278074.0,"weight":1.0,"etf_name":"ARKK","weight_diff":0},{"id":9269,"symbol":"PRLB","name":"PROTO LABS, INC.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":9269,"dt":"2021-06-04","shares":200923.0,"weight":0.61,"etf_name":"ARKQ","weight_diff":0}],"MTLS":[{"id":4532,"symbol":"MTLS","name":"Materialise NV American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4532,"dt":"2021-06-04","shares":313893.0,"weight":1.57,"etf_name":"PRNT","weight_diff":0},{"id":4532,"symbol":"MTLS","name":"Materialise NV American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":4532,"dt":"2021-06-04","shares":4225709.0,"weight":0.57,"etf_name":"ARKK","weight_diff":0},{"id":4532,"symbol":"MTLS","name":"Materialise NV American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":4532,"dt":"2021-06-04","shares":1588283.0,"weight":1.49,"etf_name":"ARKQ","weight_diff":0}],"AME":[{"id":6544,"symbol":"AME","name":"Ametek, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":6544,"dt":"2021-06-04","shares":54104.0,"weight":1.36,"etf_name":"PRNT","weight_diff":0}],"ARNC":[{"id":4145,"symbol":"ARNC","name":"Arconic Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4145,"dt":"2021-06-04","shares":181907.0,"weight":1.24,"etf_name":"PRNT","weight_diff":0}],"ALGN":[{"id":6730,"symbol":"ALGN","name":"Align Technology, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":6730,"dt":"2021-06-04","shares":11867.0,"weight":1.24,"etf_name":"PRNT","weight_diff":0}],"FARO":[{"id":7119,"symbol":"FARO","name":"FARO Technologies, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":7119,"dt":"2021-06-04","shares":86201.0,"weight":1.17,"etf_name":"PRNT","weight_diff":0}],"UPS":[{"id":4066,"symbol":"UPS","name":"United Parcel Service, Inc. Class B","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4066,"dt":"2021-06-04","shares":27807.0,"weight":1.08,"etf_name":"PRNT","weight_diff":0}],"KALU":[{"id":8799,"symbol":"KALU","name":"Kaiser Aluminum Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":8799,"dt":"2021-06-04","shares":43855.0,"weight":1.07,"etf_name":"PRNT","weight_diff":0}],"LECO":[{"id":7491,"symbol":"LECO","name":"Lincoln Electric Holdings, Inc. Common Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":7491,"dt":"2021-06-04","shares":40590.0,"weight":0.97,"etf_name":"PRNT","weight_diff":0}],"GE":[{"id":8912,"symbol":"GE","name":"General Electric Company","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":8912,"dt":"2021-06-04","shares":368483.0,"weight":0.95,"etf_name":"PRNT","weight_diff":0}],"UCTT":[{"id":4518,"symbol":"UCTT","name":"Ultra Clean Holdings, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4518,"dt":"2021-06-04","shares":91158.0,"weight":0.93,"etf_name":"PRNT","weight_diff":0}],"AJRD":[{"id":92,"symbol":"AJRD","name":"Aerojet Rocketdyne Holdings, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":92,"dt":"2021-06-04","shares":103277.0,"weight":0.92,"etf_name":"PRNT","weight_diff":0}],"SYK":[{"id":8369,"symbol":"SYK","name":"Stryker Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":8369,"dt":"2021-06-04","shares":19462.0,"weight":0.89,"etf_name":"PRNT","weight_diff":0}],"NUVA":[{"id":3703,"symbol":"NUVA","name":"NuVasive, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":3703,"dt":"2021-06-04","shares":72430.0,"weight":0.87,"etf_name":"PRNT","weight_diff":0}],"NNDM":[{"id":8974,"symbol":"NNDM","name":"Nano Dimension Ltd. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8974,"dt":"2021-06-04","shares":748425.0,"weight":1.5,"etf_name":"IZRL","weight_diff":0},{"id":8974,"symbol":"NNDM","name":"Nano Dimension Ltd. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":8974,"dt":"2021-06-04","shares":201123.0,"weight":0.27,"etf_name":"PRNT","weight_diff":0},{"id":8974,"symbol":"NNDM","name":"Nano Dimension Ltd. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8974,"dt":"2021-06-04","shares":7461444.0,"weight":1.01,"etf_name":"ARKW","weight_diff":0},{"id":8974,"symbol":"NNDM","name":"Nano Dimension Ltd. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8974,"dt":"2021-06-04","shares":7707501.0,"weight":1.93,"etf_name":"ARKQ","weight_diff":0}],"DD":[{"id":4690,"symbol":"DD","name":"DuPont de Nemours, Inc. Common Stock","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4690,"dt":"2021-06-04","shares":8819.0,"weight":0.14,"etf_name":"PRNT","weight_diff":0}],"EMN":[{"id":9015,"symbol":"EMN","name":"Eastman Chemical Company","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":9015,"dt":"2021-06-04","shares":5944.0,"weight":0.14,"etf_name":"PRNT","weight_diff":0}],"KODK":[{"id":2099,"symbol":"KODK","name":"EASTMAN KODAK COMPANY","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":2099,"dt":"2021-06-04","shares":93629.0,"weight":0.14,"etf_name":"PRNT","weight_diff":0}],"ATI":[{"id":6804,"symbol":"ATI","name":"Allegheny Technologies","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":6804,"dt":"2021-06-04","shares":30670.0,"weight":0.13,"etf_name":"PRNT","weight_diff":0}],"DSM":[{"id":7081,"symbol":"DSM","name":"BNY Mellon Strategic Municipal Bond Fund, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":7081,"dt":"2021-06-04","shares":3827.0,"weight":0.13,"etf_name":"PRNT","weight_diff":0}],"VOE":[{"id":4654,"symbol":"VOE","name":"Vanguard Mid-Cap Value ETF","exchange":"ARCA","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":4654,"dt":"2021-06-04","shares":15436.0,"weight":0.13,"etf_name":"PRNT","weight_diff":0}],"HXL":[{"id":3478,"symbol":"HXL","name":"Hexcel Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":3478,"dt":"2021-06-04","shares":12123.0,"weight":0.13,"etf_name":"PRNT","weight_diff":0}],"CRS":[{"id":753,"symbol":"CRS","name":"Carpenter Technology Corp","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":753,"dt":"2021-06-04","shares":16286.0,"weight":0.13,"etf_name":"PRNT","weight_diff":0}],"MMM":[{"id":2390,"symbol":"MMM","name":"3M Company","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":2390,"dt":"2021-06-04","shares":3353.0,"weight":0.13,"etf_name":"PRNT","weight_diff":0}],"EVK":[{"id":1363,"symbol":"EVK","name":"Ever-Glory International Group, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":1363,"dt":"2021-06-04","shares":18699.0,"weight":0.12,"etf_name":"PRNT","weight_diff":0}],"SAND":[{"id":3794,"symbol":"SAND","name":"Sandstorm Gold Ltd","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":2623,"holding_id":3794,"dt":"2021-06-04","shares":24202.0,"weight":0.12,"etf_name":"PRNT","weight_diff":0}],"ONE":[{"id":5677,"symbol":"ONE","name":"OneSmart International Education Group Limited","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":5677,"dt":"2021-06-04","shares":437860.0,"weight":15.63,"etf_name":"IZRL","weight_diff":0}],"ITRN":[{"id":1892,"symbol":"ITRN","name":"Ituran Location and Control Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":1892,"dt":"2021-06-04","shares":265928.0,"weight":1.78,"etf_name":"IZRL","weight_diff":0}],"KRNT":[{"id":2016,"symbol":"KRNT","name":"Kornit Digital Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":2016,"dt":"2021-06-04","shares":54825.0,"weight":1.74,"etf_name":"IZRL","weight_diff":0}],"CAMT":[{"id":7023,"symbol":"CAMT","name":"Camtek Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7023,"dt":"2021-06-04","shares":170464.0,"weight":1.72,"etf_name":"IZRL","weight_diff":0}],"CEL":[{"id":8642,"symbol":"CEL","name":"Cellcom Israel, Ltd.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8642,"dt":"2021-06-04","shares":1586815.0,"weight":1.68,"etf_name":"IZRL","weight_diff":0}],"AUDC":[{"id":7846,"symbol":"AUDC","name":"AudioCodes Ltd. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7846,"dt":"2021-06-04","shares":183498.0,"weight":1.66,"etf_name":"IZRL","weight_diff":0}],"ALLT":[{"id":8577,"symbol":"ALLT","name":"Allot Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8577,"dt":"2021-06-04","shares":327655.0,"weight":1.66,"etf_name":"IZRL","weight_diff":0}],"NVMI":[{"id":5572,"symbol":"NVMI","name":"Nova Measuring Instruments Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":5572,"dt":"2021-06-04","shares":59977.0,"weight":1.63,"etf_name":"IZRL","weight_diff":0}],"GILT":[{"id":9246,"symbol":"GILT","name":"Gilat Satellite Networks Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":9246,"dt":"2021-06-04","shares":567142.0,"weight":1.61,"etf_name":"IZRL","weight_diff":0}],"PYPD":[{"id":2680,"symbol":"PYPD","name":"PolyPid Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":2680,"dt":"2021-06-04","shares":617622.0,"weight":1.6,"etf_name":"IZRL","weight_diff":0}],"RDWR":[{"id":2784,"symbol":"RDWR","name":"Radware Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":2784,"dt":"2021-06-04","shares":200863.0,"weight":1.59,"etf_name":"IZRL","weight_diff":0}],"ROBO":[{"id":2799,"symbol":"ROBO","name":"ROBO Global Robotics & Automation Index ETF","exchange":"ARCA","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":2799,"dt":"2021-06-04","shares":3380119.0,"weight":1.59,"etf_name":"IZRL","weight_diff":0}],"CHKP":[{"id":593,"symbol":"CHKP","name":"Check Point Software Technologies Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":593,"dt":"2021-06-04","shares":48772.0,"weight":1.58,"etf_name":"IZRL","weight_diff":0}],"MTRX":[{"id":8274,"symbol":"MTRX","name":"Matrix Service Company Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8274,"dt":"2021-06-04","shares":220741.0,"weight":1.57,"etf_name":"IZRL","weight_diff":0}],"PTNR":[{"id":2597,"symbol":"PTNR","name":"Partner Communications Company Ltd. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":2597,"dt":"2021-06-04","shares":1247394.0,"weight":1.56,"etf_name":"IZRL","weight_diff":0}],"DRIO":[{"id":3516,"symbol":"DRIO","name":"DarioHealth Corp. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":3516,"dt":"2021-06-04","shares":306156.0,"weight":1.56,"etf_name":"IZRL","weight_diff":0}],"MGIC":[{"id":7658,"symbol":"MGIC","name":"Magic Software Enterprises Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7658,"dt":"2021-06-04","shares":353836.0,"weight":1.54,"etf_name":"IZRL","weight_diff":0}],"RDHL":[{"id":8849,"symbol":"RDHL","name":"Redhill Biopharma Ltd. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8849,"dt":"2021-06-04","shares":803397.0,"weight":1.54,"etf_name":"IZRL","weight_diff":0}],"ARD":[{"id":6726,"symbol":"ARD","name":"Ardagh Group S.A. Class A Common Shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":6726,"dt":"2021-06-04","shares":395957.0,"weight":1.54,"etf_name":"IZRL","weight_diff":0}],"TARO":[{"id":8333,"symbol":"TARO","name":"Taro Pharmaceutical Industries Ltd.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8333,"dt":"2021-06-04","shares":78142.0,"weight":1.53,"etf_name":"IZRL","weight_diff":0}],"INMD":[{"id":9178,"symbol":"INMD","name":"InMode Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":9178,"dt":"2021-06-04","shares":68105.0,"weight":1.53,"etf_name":"IZRL","weight_diff":0}],"CRNT":[{"id":811,"symbol":"CRNT","name":"Ceragon Networks Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":811,"dt":"2021-06-04","shares":1558355.0,"weight":1.52,"etf_name":"IZRL","weight_diff":0}],"TEVA":[{"id":7919,"symbol":"TEVA","name":"Teva Pharmaceutical Industries Limited American Depositary Shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7919,"dt":"2021-06-04","shares":522802.0,"weight":1.52,"etf_name":"IZRL","weight_diff":0}],"KMDA":[{"id":2154,"symbol":"KMDA","name":"Kamada Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":2154,"dt":"2021-06-04","shares":933518.0,"weight":1.51,"etf_name":"IZRL","weight_diff":0}],"PERI":[{"id":3724,"symbol":"PERI","name":"Perion Network Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":3724,"dt":"2021-06-04","shares":335775.0,"weight":1.48,"etf_name":"IZRL","weight_diff":0}],"SILC":[{"id":3027,"symbol":"SILC","name":"Silicom Ltd Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":3027,"dt":"2021-06-04","shares":126551.0,"weight":1.46,"etf_name":"IZRL","weight_diff":0}],"NICE":[{"id":5523,"symbol":"NICE","name":"NICE Ltd American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":5523,"dt":"2021-06-04","shares":24326.0,"weight":1.44,"etf_name":"IZRL","weight_diff":0}],"ESLT":[{"id":1301,"symbol":"ESLT","name":"Elbit Systems Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":1301,"dt":"2021-06-04","shares":40009.0,"weight":1.43,"etf_name":"IZRL","weight_diff":0},{"id":1301,"symbol":"ESLT","name":"Elbit Systems Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":1301,"dt":"2021-06-04","shares":264967.0,"weight":1.19,"etf_name":"ARKQ","weight_diff":0}],"FVRR":[{"id":7237,"symbol":"FVRR","name":"Fiverr International Ltd.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7237,"dt":"2021-06-04","shares":25702.0,"weight":1.4,"etf_name":"IZRL","weight_diff":0}],"SEDG":[{"id":3800,"symbol":"SEDG","name":"SolarEdge Technologies, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":3800,"dt":"2021-06-04","shares":21375.0,"weight":1.4,"etf_name":"IZRL","weight_diff":0}],"ENLV":[{"id":9238,"symbol":"ENLV","name":"Enlivex Therapeutics Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":9238,"dt":"2021-06-04","shares":525215.0,"weight":1.39,"etf_name":"IZRL","weight_diff":0}],"TSEM":[{"id":7966,"symbol":"TSEM","name":"Tower Semiconductor Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7966,"dt":"2021-06-04","shares":191527.0,"weight":1.39,"etf_name":"IZRL","weight_diff":0}],"WIX":[{"id":6594,"symbol":"WIX","name":"Wix.com Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":6594,"dt":"2021-06-04","shares":19624.0,"weight":1.38,"etf_name":"IZRL","weight_diff":0}],"CYBR":[{"id":9262,"symbol":"CYBR","name":"CyberArk Software Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":9262,"dt":"2021-06-04","shares":39995.0,"weight":1.36,"etf_name":"IZRL","weight_diff":0}],"RADA":[{"id":5965,"symbol":"RADA","name":"RADA Electronic Industries Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":5965,"dt":"2021-06-04","shares":433212.0,"weight":1.33,"etf_name":"IZRL","weight_diff":0}],"SPNS":[{"id":6166,"symbol":"SPNS","name":"Sapiens International Corporation N.V. Common Shares (Cayman Islands)","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":6166,"dt":"2021-06-04","shares":173155.0,"weight":1.31,"etf_name":"IZRL","weight_diff":0}],"FROG":[{"id":7213,"symbol":"FROG","name":"JFrog Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":7213,"dt":"2021-06-04","shares":109469.0,"weight":1.3,"etf_name":"IZRL","weight_diff":0}],"ITMR":[{"id":8208,"symbol":"ITMR","name":"Itamar Medical Ltd. American Depository Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":8208,"dt":"2021-06-04","shares":7346804.0,"weight":1.26,"etf_name":"IZRL","weight_diff":0}],"GMDA":[{"id":1466,"symbol":"GMDA","name":"Gamida Cell Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":1466,"dt":"2021-06-04","shares":703065.0,"weight":1.22,"etf_name":"IZRL","weight_diff":0}],"NNOX":[{"id":9202,"symbol":"NNOX","name":"NANO-X IMAGING LTD Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":9202,"dt":"2021-06-04","shares":157839.0,"weight":1.19,"etf_name":"IZRL","weight_diff":0}],"EVGN":[{"id":3388,"symbol":"EVGN","name":"Evogene Ltd Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":3388,"dt":"2021-06-04","shares":871152.0,"weight":0.85,"etf_name":"IZRL","weight_diff":0},{"id":3388,"symbol":"EVGN","name":"Evogene Ltd Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3388,"dt":"2021-06-04","shares":3454174.0,"weight":0.15,"etf_name":"ARKG","weight_diff":0}],"CGEN":[{"id":3261,"symbol":"CGEN","name":"Compugen Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":3261,"dt":"2021-06-04","shares":407660.0,"weight":0.82,"etf_name":"IZRL","weight_diff":0},{"id":3261,"symbol":"CGEN","name":"Compugen Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3261,"dt":"2021-06-04","shares":4311861.0,"weight":0.39,"etf_name":"ARKG","weight_diff":0},{"id":3261,"symbol":"CGEN","name":"Compugen Ltd. Ordinary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3261,"dt":"2021-06-04","shares":7347839.0,"weight":0.27,"etf_name":"ARKK","weight_diff":0}],"PSTI":[{"id":5883,"symbol":"PSTI","name":"Pluristem Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":1991,"holding_id":5883,"dt":"2021-06-04","shares":679840.0,"weight":0.69,"etf_name":"IZRL","weight_diff":0},{"id":5883,"symbol":"PSTI","name":"Pluristem Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":5883,"dt":"2021-06-04","shares":1527525.0,"weight":0.07,"etf_name":"ARKG","weight_diff":0}],"TDOC":[{"id":8480,"symbol":"TDOC","name":"Teladoc Health, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8480,"dt":"2021-06-04","shares":3886571.0,"weight":7.08,"etf_name":"ARKG","weight_diff":0},{"id":8480,"symbol":"TDOC","name":"Teladoc Health, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8480,"dt":"2021-06-04","shares":1639970.0,"weight":4.5,"etf_name":"ARKW","weight_diff":0},{"id":8480,"symbol":"TDOC","name":"Teladoc Health, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8480,"dt":"2021-06-04","shares":8487605.0,"weight":6.17,"etf_name":"ARKK","weight_diff":0},{"id":8480,"symbol":"TDOC","name":"Teladoc Health, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8480,"dt":"2021-06-04","shares":262304.0,"weight":1.07,"etf_name":"ARKF","weight_diff":0}],"EXAS":[{"id":7114,"symbol":"EXAS","name":"Exact Sciences Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":7114,"dt":"2021-06-04","shares":3796642.0,"weight":5.09,"etf_name":"ARKG","weight_diff":0},{"id":7114,"symbol":"EXAS","name":"Exact Sciences Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":7114,"dt":"2021-06-04","shares":5636014.0,"weight":3.02,"etf_name":"ARKK","weight_diff":0}],"CDNA":[{"id":6886,"symbol":"CDNA","name":"CareDx, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":6886,"dt":"2021-06-04","shares":4502237.0,"weight":4.48,"etf_name":"ARKG","weight_diff":0}],"REGN":[{"id":5971,"symbol":"REGN","name":"Regeneron Pharmaceuticals, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":5971,"dt":"2021-06-04","shares":684265.0,"weight":4.3,"etf_name":"ARKG","weight_diff":0}],"PACB":[{"id":5725,"symbol":"PACB","name":"Pacific Biosciences of California, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":5725,"dt":"2021-06-04","shares":12934607.0,"weight":4.09,"etf_name":"ARKG","weight_diff":0},{"id":5725,"symbol":"PACB","name":"Pacific Biosciences of California, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":5725,"dt":"2021-06-04","shares":6182844.0,"weight":0.78,"etf_name":"ARKK","weight_diff":0}],"NVS":[{"id":5558,"symbol":"NVS","name":"Novartis AG","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":5558,"dt":"2021-06-04","shares":3668042.0,"weight":4.07,"etf_name":"ARKG","weight_diff":0},{"id":5558,"symbol":"NVS","name":"Novartis AG","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":5558,"dt":"2021-06-04","shares":1204522.0,"weight":0.53,"etf_name":"ARKK","weight_diff":0}],"VRTX":[{"id":4216,"symbol":"VRTX","name":"Vertex Pharmaceuticals Incorporated Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":4216,"dt":"2021-06-04","shares":1483037.0,"weight":3.89,"etf_name":"ARKG","weight_diff":0}],"IONS":[{"id":8786,"symbol":"IONS","name":"Ionis Pharmaceuticals, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8786,"dt":"2021-06-04","shares":7870826.0,"weight":3.4,"etf_name":"ARKG","weight_diff":0}],"FATE":[{"id":3399,"symbol":"FATE","name":"Fate Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3399,"dt":"2021-06-04","shares":3889586.0,"weight":3.25,"etf_name":"ARKG","weight_diff":0},{"id":3399,"symbol":"FATE","name":"Fate Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3399,"dt":"2021-06-04","shares":3318016.0,"weight":1.11,"etf_name":"ARKK","weight_diff":0}],"ACCD":[{"id":169,"symbol":"ACCD","name":"Accolade, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":169,"dt":"2021-06-04","shares":5201559.0,"weight":3.24,"etf_name":"ARKG","weight_diff":0}],"TWST":[{"id":6334,"symbol":"TWST","name":"Twist Bioscience Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":6334,"dt":"2021-06-04","shares":2700724.0,"weight":3.23,"etf_name":"ARKG","weight_diff":0},{"id":6334,"symbol":"TWST","name":"Twist Bioscience Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":6334,"dt":"2021-06-04","shares":2311882.0,"weight":1.1,"etf_name":"ARKK","weight_diff":0}],"VEEV":[{"id":6414,"symbol":"VEEV","name":"Veeva Systems Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":6414,"dt":"2021-06-04","shares":840959.0,"weight":2.98,"etf_name":"ARKG","weight_diff":0}],"INCY":[{"id":3594,"symbol":"INCY","name":"Incyte Corp. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3594,"dt":"2021-06-04","shares":2831811.0,"weight":2.92,"etf_name":"ARKG","weight_diff":0}],"TXG":[{"id":9214,"symbol":"TXG","name":"10x Genomics, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":9214,"dt":"2021-06-04","shares":1255280.0,"weight":2.7,"etf_name":"ARKG","weight_diff":0},{"id":9214,"symbol":"TXG","name":"10x Genomics, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":9214,"dt":"2021-06-04","shares":2656587.0,"weight":2.28,"etf_name":"ARKK","weight_diff":0}],"CRSP":[{"id":8929,"symbol":"CRSP","name":"CRISPR Therapeutics AG Common Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8929,"dt":"2021-06-04","shares":1766510.0,"weight":2.41,"etf_name":"ARKG","weight_diff":0},{"id":8929,"symbol":"CRSP","name":"CRISPR Therapeutics AG Common Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8929,"dt":"2021-06-04","shares":4834165.0,"weight":2.63,"etf_name":"ARKK","weight_diff":0}],"SDGR":[{"id":3000,"symbol":"SDGR","name":"Schrodinger, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3000,"dt":"2021-06-04","shares":2508101.0,"weight":2.21,"etf_name":"ARKG","weight_diff":0}],"ADPT":[{"id":8893,"symbol":"ADPT","name":"Adaptive Biotechnologies Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8893,"dt":"2021-06-04","shares":4193634.0,"weight":1.86,"etf_name":"ARKG","weight_diff":0}],"CSTL":[{"id":758,"symbol":"CSTL","name":"Castle Biosciences, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":758,"dt":"2021-06-04","shares":2499545.0,"weight":1.85,"etf_name":"ARKG","weight_diff":0}],"NVTA":[{"id":3705,"symbol":"NVTA","name":"Invitae Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3705,"dt":"2021-06-04","shares":5051925.0,"weight":1.7,"etf_name":"ARKG","weight_diff":0},{"id":3705,"symbol":"NVTA","name":"Invitae Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3705,"dt":"2021-06-04","shares":13568239.0,"weight":1.82,"etf_name":"ARKK","weight_diff":0}],"BEAM":[{"id":6856,"symbol":"BEAM","name":"Beam Therapeutics Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":6856,"dt":"2021-06-04","shares":1697286.0,"weight":1.68,"etf_name":"ARKG","weight_diff":0},{"id":6856,"symbol":"BEAM","name":"Beam Therapeutics Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":6856,"dt":"2021-06-04","shares":4529118.0,"weight":1.79,"etf_name":"ARKK","weight_diff":0}],"BLI":[{"id":229,"symbol":"BLI","name":"Berkeley Lights, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":229,"dt":"2021-06-04","shares":3166602.0,"weight":1.59,"etf_name":"ARKG","weight_diff":0},{"id":229,"symbol":"BLI","name":"Berkeley Lights, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":229,"dt":"2021-06-04","shares":3465105.0,"weight":0.69,"etf_name":"ARKK","weight_diff":0}],"CDXS":[{"id":3253,"symbol":"CDXS","name":"Codexis, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3253,"dt":"2021-06-04","shares":6410975.0,"weight":1.58,"etf_name":"ARKG","weight_diff":0}],"IOVA":[{"id":5262,"symbol":"IOVA","name":"Iovance Biotherapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":5262,"dt":"2021-06-04","shares":7236196.0,"weight":1.57,"etf_name":"ARKG","weight_diff":0},{"id":5262,"symbol":"IOVA","name":"Iovance Biotherapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":5262,"dt":"2021-06-04","shares":11068235.0,"weight":0.96,"etf_name":"ARKK","weight_diff":0}],"BMY":[{"id":196,"symbol":"BMY","name":"Bristol-Myers Squibb Co.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":196,"dt":"2021-06-04","shares":1826372.0,"weight":1.47,"etf_name":"ARKG","weight_diff":0}],"NTLA":[{"id":2415,"symbol":"NTLA","name":"Intellia Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":2415,"dt":"2021-06-04","shares":1642140.0,"weight":1.46,"etf_name":"ARKG","weight_diff":0},{"id":2415,"symbol":"NTLA","name":"Intellia Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":2415,"dt":"2021-06-04","shares":4730534.0,"weight":1.68,"etf_name":"ARKK","weight_diff":0}],"PSTG":[{"id":7833,"symbol":"PSTG","name":"Pure Storage, Inc. Class A","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":7833,"dt":"2021-06-04","shares":5790585.0,"weight":1.34,"etf_name":"ARKG","weight_diff":0},{"id":7833,"symbol":"PSTG","name":"Pure Storage, Inc. Class A","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":7833,"dt":"2021-06-04","shares":1957942.0,"weight":0.68,"etf_name":"ARKW","weight_diff":0},{"id":7833,"symbol":"PSTG","name":"Pure Storage, Inc. Class A","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":7833,"dt":"2021-06-04","shares":8396053.0,"weight":0.77,"etf_name":"ARKK","weight_diff":0}],"PSNL":[{"id":3746,"symbol":"PSNL","name":"Personalis, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3746,"dt":"2021-06-04","shares":5079701.0,"weight":1.31,"etf_name":"ARKG","weight_diff":0}],"MASS":[{"id":2209,"symbol":"MASS","name":"908 Devices Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":2209,"dt":"2021-06-04","shares":2308627.0,"weight":1.22,"etf_name":"ARKG","weight_diff":0}],"ONEM":[{"id":7631,"symbol":"ONEM","name":"1Life Healthcare, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":7631,"dt":"2021-06-04","shares":2539247.0,"weight":1.15,"etf_name":"ARKG","weight_diff":0}],"VCYT":[{"id":4009,"symbol":"VCYT","name":"Veracyte, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":4009,"dt":"2021-06-04","shares":2012273.0,"weight":0.85,"etf_name":"ARKG","weight_diff":0},{"id":4009,"symbol":"VCYT","name":"Veracyte, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":4009,"dt":"2021-06-04","shares":1193760.0,"weight":0.76,"etf_name":"ARKW","weight_diff":0},{"id":4009,"symbol":"VCYT","name":"Veracyte, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":4009,"dt":"2021-06-04","shares":3547016.0,"weight":0.6,"etf_name":"ARKK","weight_diff":0}],"CLLS":[{"id":577,"symbol":"CLLS","name":"Cellectis S.A. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":577,"dt":"2021-06-04","shares":4549369.0,"weight":0.81,"etf_name":"ARKG","weight_diff":0}],"ABBV":[{"id":8943,"symbol":"ABBV","name":"ABBVIE INC.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8943,"dt":"2021-06-04","shares":524245.0,"weight":0.73,"etf_name":"ARKG","weight_diff":0}],"RPTX":[{"id":4509,"symbol":"RPTX","name":"Repare Therapeutics Inc. Common Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":4509,"dt":"2021-06-04","shares":1835536.0,"weight":0.72,"etf_name":"ARKG","weight_diff":0}],"CMLF":[{"id":609,"symbol":"CMLF","name":"CM Life Sciences, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":609,"dt":"2021-06-04","shares":4402159.0,"weight":0.64,"etf_name":"ARKG","weight_diff":0}],"MCRB":[{"id":3657,"symbol":"MCRB","name":"Seres Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":3657,"dt":"2021-06-04","shares":2677721.0,"weight":0.61,"etf_name":"ARKG","weight_diff":0},{"id":3657,"symbol":"MCRB","name":"Seres Therapeutics, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3657,"dt":"2021-06-04","shares":5888970.0,"weight":0.54,"etf_name":"ARKK","weight_diff":0}],"NSTG":[{"id":5563,"symbol":"NSTG","name":"NanoString Technologies, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":5563,"dt":"2021-06-04","shares":917762.0,"weight":0.6,"etf_name":"ARKG","weight_diff":0},{"id":5563,"symbol":"NSTG","name":"NanoString Technologies, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":5563,"dt":"2021-06-04","shares":1874428.0,"weight":0.49,"etf_name":"ARKK","weight_diff":0}],"EDIT":[{"id":8927,"symbol":"EDIT","name":"Editas Medicine, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8927,"dt":"2021-06-04","shares":1365680.0,"weight":0.57,"etf_name":"ARKG","weight_diff":0},{"id":8927,"symbol":"EDIT","name":"Editas Medicine, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8927,"dt":"2021-06-04","shares":4876241.0,"weight":0.81,"etf_name":"ARKK","weight_diff":0}],"SRPT":[{"id":6203,"symbol":"SRPT","name":"Sarepta Therapeutics, Inc. Common Stock (DE)","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":6203,"dt":"2021-06-04","shares":579255.0,"weight":0.53,"etf_name":"ARKG","weight_diff":0}],"SURF":[{"id":8332,"symbol":"SURF","name":"Surface Oncology, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":8332,"dt":"2021-06-04","shares":4273283.0,"weight":0.48,"etf_name":"ARKG","weight_diff":0}],"AQB":[{"id":4837,"symbol":"AQB","name":"AquaBounty Technologies, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":4837,"dt":"2021-06-04","shares":6599352.0,"weight":0.46,"etf_name":"ARKG","weight_diff":0}],"CERS":[{"id":6762,"symbol":"CERS","name":"Cerus Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":6762,"dt":"2021-06-04","shares":6145630.0,"weight":0.41,"etf_name":"ARKG","weight_diff":0},{"id":6762,"symbol":"CERS","name":"Cerus Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":6762,"dt":"2021-06-04","shares":13966358.0,"weight":0.37,"etf_name":"ARKK","weight_diff":0}],"SEER":[{"id":7883,"symbol":"SEER","name":"Seer, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":7883,"dt":"2021-06-04","shares":962429.0,"weight":0.4,"etf_name":"ARKG","weight_diff":0}],"GH":[{"id":1581,"symbol":"GH","name":"Guardant Health, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":1581,"dt":"2021-06-04","shares":128395.0,"weight":0.19,"etf_name":"ARKG","weight_diff":0}],"DRNA":[{"id":964,"symbol":"DRNA","name":"Dicerna Pharmaceuticals, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":964,"dt":"2021-06-04","shares":315023.0,"weight":0.12,"etf_name":"ARKG","weight_diff":0}],"SYRS":[{"id":4551,"symbol":"SYRS","name":"Syros Pharmaceuticals, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4414,"holding_id":4551,"dt":"2021-06-04","shares":6417.0,"weight":0.0,"etf_name":"ARKG","weight_diff":0},{"id":4551,"symbol":"SYRS","name":"Syros Pharmaceuticals, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":4551,"dt":"2021-06-04","shares":15959.0,"weight":0.0,"etf_name":"ARKK","weight_diff":0}],"TSLA":[{"id":8911,"symbol":"TSLA","name":"Tesla, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8911,"dt":"2021-06-04","shares":897654.0,"weight":9.62,"etf_name":"ARKW","weight_diff":0},{"id":8911,"symbol":"TSLA","name":"Tesla, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8911,"dt":"2021-06-04","shares":3442727.0,"weight":9.78,"etf_name":"ARKK","weight_diff":0},{"id":8911,"symbol":"TSLA","name":"Tesla, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8911,"dt":"2021-06-04","shares":492324.0,"weight":9.71,"etf_name":"ARKQ","weight_diff":0}],"SHOP":[{"id":3809,"symbol":"SHOP","name":"Shopify Inc. Class A subordinate voting shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3809,"dt":"2021-06-04","shares":213647.0,"weight":4.79,"etf_name":"ARKW","weight_diff":0},{"id":3809,"symbol":"SHOP","name":"Shopify Inc. Class A subordinate voting shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3809,"dt":"2021-06-04","shares":716771.0,"weight":4.26,"etf_name":"ARKK","weight_diff":0},{"id":3809,"symbol":"SHOP","name":"Shopify Inc. Class A subordinate voting shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":3809,"dt":"2021-06-04","shares":154615.0,"weight":5.17,"etf_name":"ARKF","weight_diff":0}],"TWTR":[{"id":7968,"symbol":"TWTR","name":"Twitter, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":7968,"dt":"2021-06-04","shares":4437365.0,"weight":4.73,"etf_name":"ARKW","weight_diff":0},{"id":7968,"symbol":"TWTR","name":"Twitter, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":7968,"dt":"2021-06-04","shares":6476395.0,"weight":1.83,"etf_name":"ARKK","weight_diff":0}],"SQ":[{"id":8995,"symbol":"SQ","name":"Square, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8995,"dt":"2021-06-04","shares":1131735.0,"weight":4.48,"etf_name":"ARKW","weight_diff":0},{"id":8995,"symbol":"SQ","name":"Square, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8995,"dt":"2021-06-04","shares":4391015.0,"weight":4.6,"etf_name":"ARKK","weight_diff":0},{"id":8995,"symbol":"SQ","name":"Square, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8995,"dt":"2021-06-04","shares":1639959.0,"weight":9.66,"etf_name":"ARKF","weight_diff":0}],"SPOT":[{"id":8980,"symbol":"SPOT","name":"Spotify Technology S.A.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8980,"dt":"2021-06-04","shares":879242.0,"weight":3.82,"etf_name":"ARKW","weight_diff":0},{"id":8980,"symbol":"SPOT","name":"Spotify Technology S.A.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8980,"dt":"2021-06-04","shares":3059379.0,"weight":3.52,"etf_name":"ARKK","weight_diff":0}],"ROKU":[{"id":2801,"symbol":"ROKU","name":"Roku, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":2801,"dt":"2021-06-04","shares":614674.0,"weight":3.72,"etf_name":"ARKW","weight_diff":0},{"id":2801,"symbol":"ROKU","name":"Roku, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":2801,"dt":"2021-06-04","shares":3458717.0,"weight":5.55,"etf_name":"ARKK","weight_diff":0}],"TWLO":[{"id":4059,"symbol":"TWLO","name":"Twilio Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":4059,"dt":"2021-06-04","shares":610894.0,"weight":3.54,"etf_name":"ARKW","weight_diff":0},{"id":4059,"symbol":"TWLO","name":"Twilio Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":4059,"dt":"2021-06-04","shares":2277542.0,"weight":3.5,"etf_name":"ARKK","weight_diff":0},{"id":4059,"symbol":"TWLO","name":"Twilio Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4059,"dt":"2021-06-04","shares":367006.0,"weight":3.17,"etf_name":"ARKF","weight_diff":0}],"PTON":[{"id":3748,"symbol":"PTON","name":"Peloton Interactive, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3748,"dt":"2021-06-04","shares":1627169.0,"weight":3.14,"etf_name":"ARKW","weight_diff":0}],"SKLZ":[{"id":3057,"symbol":"SKLZ","name":"Skillz Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3057,"dt":"2021-06-04","shares":7482723.0,"weight":2.97,"etf_name":"ARKW","weight_diff":0},{"id":3057,"symbol":"SKLZ","name":"Skillz Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3057,"dt":"2021-06-04","shares":15180627.0,"weight":1.6,"etf_name":"ARKK","weight_diff":0}],"SE":[{"id":5991,"symbol":"SE","name":"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":5991,"dt":"2021-06-04","shares":633566.0,"weight":2.96,"etf_name":"ARKW","weight_diff":0},{"id":5991,"symbol":"SE","name":"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":5991,"dt":"2021-06-04","shares":1359346.0,"weight":1.68,"etf_name":"ARKK","weight_diff":0},{"id":5991,"symbol":"SE","name":"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":5991,"dt":"2021-06-04","shares":711846.0,"weight":4.95,"etf_name":"ARKF","weight_diff":0}],"ZM":[{"id":8975,"symbol":"ZM","name":"Zoom Video Communications, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8975,"dt":"2021-06-04","shares":491883.0,"weight":2.94,"etf_name":"ARKW","weight_diff":0},{"id":8975,"symbol":"ZM","name":"Zoom Video Communications, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8975,"dt":"2021-06-04","shares":2762702.0,"weight":4.37,"etf_name":"ARKK","weight_diff":0}],"U":[{"id":6341,"symbol":"U","name":"Unity Software Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":6341,"dt":"2021-06-04","shares":1525393.0,"weight":2.66,"etf_name":"ARKW","weight_diff":0},{"id":6341,"symbol":"U","name":"Unity Software Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":6341,"dt":"2021-06-04","shares":7472530.0,"weight":3.45,"etf_name":"ARKK","weight_diff":0},{"id":6341,"symbol":"U","name":"Unity Software Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":6341,"dt":"2021-06-04","shares":769952.0,"weight":2.47,"etf_name":"ARKQ","weight_diff":0}],"PLTR":[{"id":2476,"symbol":"PLTR","name":"Palantir Technologies Inc. Class A Common Stock","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":2476,"dt":"2021-06-04","shares":5311764.0,"weight":2.35,"etf_name":"ARKW","weight_diff":0},{"id":2476,"symbol":"PLTR","name":"Palantir Technologies Inc. Class A Common Stock","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":2476,"dt":"2021-06-04","shares":22142340.0,"weight":2.59,"etf_name":"ARKK","weight_diff":0}],"Z":[{"id":4328,"symbol":"Z","name":"Zillow Group, Inc. Class C Capital Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":4328,"dt":"2021-06-04","shares":1120398.0,"weight":2.27,"etf_name":"ARKW","weight_diff":0},{"id":4328,"symbol":"Z","name":"Zillow Group, Inc. Class C Capital Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":4328,"dt":"2021-06-04","shares":6285214.0,"weight":3.38,"etf_name":"ARKK","weight_diff":0},{"id":4328,"symbol":"Z","name":"Zillow Group, Inc. Class C Capital Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4328,"dt":"2021-06-04","shares":1491489.0,"weight":4.51,"etf_name":"ARKF","weight_diff":0}],"TTD":[{"id":8982,"symbol":"TTD","name":"The Trade Desk, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8982,"dt":"2021-06-04","shares":210113.0,"weight":2.23,"etf_name":"ARKW","weight_diff":0}],"DKNG":[{"id":8930,"symbol":"DKNG","name":"DraftKings Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8930,"dt":"2021-06-04","shares":2161938.0,"weight":2.01,"etf_name":"ARKW","weight_diff":0},{"id":8930,"symbol":"DKNG","name":"DraftKings Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8930,"dt":"2021-06-04","shares":7933402.0,"weight":1.96,"etf_name":"ARKK","weight_diff":0},{"id":8930,"symbol":"DKNG","name":"DraftKings Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8930,"dt":"2021-06-04","shares":1095479.0,"weight":1.52,"etf_name":"ARKF","weight_diff":0}],"JD":[{"id":3609,"symbol":"JD","name":"JD.com, Inc. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3609,"dt":"2021-06-04","shares":1400080.0,"weight":1.98,"etf_name":"ARKW","weight_diff":0},{"id":3609,"symbol":"JD","name":"JD.com, Inc. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":3609,"dt":"2021-06-04","shares":1665776.0,"weight":3.51,"etf_name":"ARKF","weight_diff":0},{"id":3609,"symbol":"JD","name":"JD.com, Inc. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":3609,"dt":"2021-06-04","shares":2531417.0,"weight":6.58,"etf_name":"ARKQ","weight_diff":0}],"PDD":[{"id":5787,"symbol":"PDD","name":"Pinduoduo Inc. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":5787,"dt":"2021-06-04","shares":761588.0,"weight":1.9,"etf_name":"ARKW","weight_diff":0},{"id":5787,"symbol":"PDD","name":"Pinduoduo Inc. American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":5787,"dt":"2021-06-04","shares":645740.0,"weight":2.4,"etf_name":"ARKF","weight_diff":0}],"PYPL":[{"id":8887,"symbol":"PYPL","name":"PayPal Holdings, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8887,"dt":"2021-06-04","shares":306503.0,"weight":1.48,"etf_name":"ARKW","weight_diff":0},{"id":8887,"symbol":"PYPL","name":"PayPal Holdings, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8887,"dt":"2021-06-04","shares":639357.0,"weight":4.59,"etf_name":"ARKF","weight_diff":0}],"NET":[{"id":2351,"symbol":"NET","name":"Cloudflare, Inc. Class A common stock, par value $0.001 per share","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":2351,"dt":"2021-06-04","shares":950418.0,"weight":1.46,"etf_name":"ARKW","weight_diff":0}],"OKTA":[{"id":5651,"symbol":"OKTA","name":"Okta, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":5651,"dt":"2021-06-04","shares":352579.0,"weight":1.39,"etf_name":"ARKW","weight_diff":0}],"BEKE":[{"id":3180,"symbol":"BEKE","name":"KE Holdings Inc. American Depositary Shares (each representing three Class A Ordinary Shares)","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3180,"dt":"2021-06-04","shares":1512493.0,"weight":1.31,"etf_name":"ARKW","weight_diff":0},{"id":3180,"symbol":"BEKE","name":"KE Holdings Inc. American Depositary Shares (each representing three Class A Ordinary Shares)","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3180,"dt":"2021-06-04","shares":2597714.0,"weight":0.6,"etf_name":"ARKK","weight_diff":0},{"id":3180,"symbol":"BEKE","name":"KE Holdings Inc. American Depositary Shares (each representing three Class A Ordinary Shares)","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":3180,"dt":"2021-06-04","shares":785789.0,"weight":1.01,"etf_name":"ARKF","weight_diff":0}],"OPEN":[{"id":4544,"symbol":"OPEN","name":"Opendoor Technologies Inc Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":4544,"dt":"2021-06-04","shares":4290295.0,"weight":1.31,"etf_name":"ARKW","weight_diff":0},{"id":4544,"symbol":"OPEN","name":"Opendoor Technologies Inc Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4544,"dt":"2021-06-04","shares":5614953.0,"weight":2.55,"etf_name":"ARKF","weight_diff":0}],"SNAP":[{"id":3818,"symbol":"SNAP","name":"Snap Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3818,"dt":"2021-06-04","shares":1100456.0,"weight":1.25,"etf_name":"ARKW","weight_diff":0},{"id":3818,"symbol":"SNAP","name":"Snap Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":3818,"dt":"2021-06-04","shares":1747376.0,"weight":2.95,"etf_name":"ARKF","weight_diff":0}],"LC":[{"id":8946,"symbol":"LC","name":"LendingClub Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8946,"dt":"2021-06-04","shares":3973768.0,"weight":1.2,"etf_name":"ARKW","weight_diff":0},{"id":8946,"symbol":"LC","name":"LendingClub Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8946,"dt":"2021-06-04","shares":2498999.0,"weight":1.12,"etf_name":"ARKF","weight_diff":0}],"PD":[{"id":2554,"symbol":"PD","name":"PagerDuty, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":2554,"dt":"2021-06-04","shares":1554817.0,"weight":1.18,"etf_name":"ARKW","weight_diff":0},{"id":2554,"symbol":"PD","name":"PagerDuty, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":2554,"dt":"2021-06-04","shares":5533428.0,"weight":1.12,"etf_name":"ARKK","weight_diff":0}],"NFLX":[{"id":9279,"symbol":"NFLX","name":"Netflix, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":9279,"dt":"2021-06-04","shares":123160.0,"weight":1.13,"etf_name":"ARKW","weight_diff":0}],"DOCU":[{"id":872,"symbol":"DOCU","name":"DocuSign, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":872,"dt":"2021-06-04","shares":277818.0,"weight":1.01,"etf_name":"ARKW","weight_diff":0},{"id":872,"symbol":"DOCU","name":"DocuSign, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":872,"dt":"2021-06-04","shares":2309513.0,"weight":2.23,"etf_name":"ARKK","weight_diff":0},{"id":872,"symbol":"DOCU","name":"DocuSign, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":872,"dt":"2021-06-04","shares":370586.0,"weight":2.01,"etf_name":"ARKF","weight_diff":0}],"HUYA":[{"id":5180,"symbol":"HUYA","name":"HUYA Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":5180,"dt":"2021-06-04","shares":3257117.0,"weight":0.92,"etf_name":"ARKW","weight_diff":0},{"id":5180,"symbol":"HUYA","name":"HUYA Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":5180,"dt":"2021-06-04","shares":1151516.0,"weight":0.09,"etf_name":"ARKK","weight_diff":0}],"TWOU":[{"id":4133,"symbol":"TWOU","name":"2U, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":4133,"dt":"2021-06-04","shares":1365754.0,"weight":0.89,"etf_name":"ARKW","weight_diff":0},{"id":4133,"symbol":"TWOU","name":"2U, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":4133,"dt":"2021-06-04","shares":5901684.0,"weight":1.02,"etf_name":"ARKK","weight_diff":0},{"id":4133,"symbol":"TWOU","name":"2U, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":4133,"dt":"2021-06-04","shares":932858.0,"weight":1.11,"etf_name":"ARKQ","weight_diff":0}],"MELI":[{"id":2216,"symbol":"MELI","name":"MercadoLibre, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":2216,"dt":"2021-06-04","shares":33785.0,"weight":0.84,"etf_name":"ARKW","weight_diff":0},{"id":2216,"symbol":"MELI","name":"MercadoLibre, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":2216,"dt":"2021-06-04","shares":85309.0,"weight":3.15,"etf_name":"ARKF","weight_diff":0}],"VUZI":[{"id":8969,"symbol":"VUZI","name":"Vuzix Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8969,"dt":"2021-06-04","shares":1487942.0,"weight":0.53,"etf_name":"ARKW","weight_diff":0},{"id":8969,"symbol":"VUZI","name":"Vuzix Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8969,"dt":"2021-06-04","shares":2171143.0,"weight":1.41,"etf_name":"ARKQ","weight_diff":0}],"ETSY":[{"id":8855,"symbol":"ETSY","name":"Etsy, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":8855,"dt":"2021-06-04","shares":157379.0,"weight":0.49,"etf_name":"ARKW","weight_diff":0}],"DIS":[{"id":4521,"symbol":"DIS","name":"The Walt Disney Company","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":4521,"dt":"2021-06-04","shares":146856.0,"weight":0.48,"etf_name":"ARKW","weight_diff":0}],"ICE":[{"id":1672,"symbol":"ICE","name":"Intercontinental Exchange  Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":1672,"dt":"2021-06-04","shares":9331.0,"weight":0.02,"etf_name":"ARKW","weight_diff":0},{"id":1672,"symbol":"ICE","name":"Intercontinental Exchange  Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":1672,"dt":"2021-06-04","shares":863027.0,"weight":0.48,"etf_name":"ARKK","weight_diff":0},{"id":1672,"symbol":"ICE","name":"Intercontinental Exchange  Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":1672,"dt":"2021-06-04","shares":697217.0,"weight":2.17,"etf_name":"ARKF","weight_diff":0}],"SNOW":[{"id":3821,"symbol":"SNOW","name":"Snowflake Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4548,"holding_id":3821,"dt":"2021-06-04","shares":98.0,"weight":0.0,"etf_name":"ARKW","weight_diff":0}],"IRDM":[{"id":3602,"symbol":"IRDM","name":"Iridium Communications Inc Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":3602,"dt":"2021-06-04","shares":8189555.0,"weight":1.5,"etf_name":"ARKK","weight_diff":0},{"id":3602,"symbol":"IRDM","name":"Iridium Communications Inc Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":3602,"dt":"2021-06-04","shares":2999602.0,"weight":3.82,"etf_name":"ARKQ","weight_diff":0}],"TER":[{"id":8366,"symbol":"TER","name":"Teradyne, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4707,"holding_id":8366,"dt":"2021-06-04","shares":1899649.0,"weight":1.21,"etf_name":"ARKK","weight_diff":0},{"id":8366,"symbol":"TER","name":"Teradyne, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8366,"dt":"2021-06-04","shares":896204.0,"weight":3.96,"etf_name":"ARKQ","weight_diff":0}],"PINS":[{"id":7726,"symbol":"PINS","name":"Pinterest, Inc. Class A Common Stock","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":7726,"dt":"2021-06-04","shares":1954725.0,"weight":3.41,"etf_name":"ARKF","weight_diff":0}],"FB":[{"id":4852,"symbol":"FB","name":"Facebook, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4852,"dt":"2021-06-04","shares":285700.0,"weight":2.6,"etf_name":"ARKF","weight_diff":0}],"SI":[{"id":4730,"symbol":"SI","name":"Silvergate Capital Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4730,"dt":"2021-06-04","shares":691953.0,"weight":2.15,"etf_name":"ARKF","weight_diff":0}],"INTU":[{"id":8886,"symbol":"INTU","name":"Intuit Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8886,"dt":"2021-06-04","shares":151847.0,"weight":1.91,"etf_name":"ARKF","weight_diff":0}],"WDAY":[{"id":4193,"symbol":"WDAY","name":"Workday, Inc. Class A Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4193,"dt":"2021-06-04","shares":280326.0,"weight":1.73,"etf_name":"ARKF","weight_diff":0}],"BABA":[{"id":8824,"symbol":"BABA","name":"Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8824,"dt":"2021-06-04","shares":252647.0,"weight":1.53,"etf_name":"ARKF","weight_diff":0},{"id":8824,"symbol":"BABA","name":"Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8824,"dt":"2021-06-04","shares":129495.0,"weight":0.97,"etf_name":"ARKQ","weight_diff":0}],"AMZN":[{"id":4611,"symbol":"AMZN","name":"Amazon.com, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4611,"dt":"2021-06-04","shares":12410.0,"weight":1.1,"etf_name":"ARKF","weight_diff":0}],"BILL":[{"id":3885,"symbol":"BILL","name":"Bill.com Holdings, Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":3885,"dt":"2021-06-04","shares":263038.0,"weight":1.07,"etf_name":"ARKF","weight_diff":0}],"SCHW":[{"id":2997,"symbol":"SCHW","name":"The Charles Schwab Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":2997,"dt":"2021-06-04","shares":488788.0,"weight":1.04,"etf_name":"ARKF","weight_diff":0}],"STNE":[{"id":6193,"symbol":"STNE","name":"StoneCo Ltd. Class A Common Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":6193,"dt":"2021-06-04","shares":578141.0,"weight":1.03,"etf_name":"ARKF","weight_diff":0}],"HDB":[{"id":4515,"symbol":"HDB","name":"HDFC Bank Limited","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":4515,"dt":"2021-06-04","shares":257744.0,"weight":0.55,"etf_name":"ARKF","weight_diff":0}],"GOOG":[{"id":8913,"symbol":"GOOG","name":"Alphabet Inc. Class C Capital Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":4736,"holding_id":8913,"dt":"2021-06-04","shares":4496.0,"weight":0.3,"etf_name":"ARKF","weight_diff":0},{"id":8913,"symbol":"GOOG","name":"Alphabet Inc. Class C Capital Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8913,"dt":"2021-06-04","shares":57463.0,"weight":4.76,"etf_name":"ARKQ","weight_diff":0}],"KTOS":[{"id":3628,"symbol":"KTOS","name":"Kratos Defense & Security Solutions, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":3628,"dt":"2021-06-04","shares":6380882.0,"weight":5.63,"etf_name":"ARKQ","weight_diff":0}],"BIDU":[{"id":8879,"symbol":"BIDU","name":"Baidu, Inc. ADS","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8879,"dt":"2021-06-04","shares":681179.0,"weight":4.45,"etf_name":"ARKQ","weight_diff":0}],"NXPI":[{"id":5584,"symbol":"NXPI","name":"NXP Semiconductors N.V. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":5584,"dt":"2021-06-04","shares":454769.0,"weight":3.14,"etf_name":"ARKQ","weight_diff":0}],"LMT":[{"id":2254,"symbol":"LMT","name":"Lockheed Martin Corp.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":2254,"dt":"2021-06-04","shares":220644.0,"weight":2.94,"etf_name":"ARKQ","weight_diff":0}],"DE":[{"id":8668,"symbol":"DE","name":"Deere & Company","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8668,"dt":"2021-06-04","shares":220574.0,"weight":2.73,"etf_name":"ARKQ","weight_diff":0}],"NIU":[{"id":7630,"symbol":"NIU","name":"Niu Technologies American Depositary Shares","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":7630,"dt":"2021-06-04","shares":2229917.0,"weight":2.57,"etf_name":"ARKQ","weight_diff":0}],"MGA":[{"id":2361,"symbol":"MGA","name":"Magna International","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":2361,"dt":"2021-06-04","shares":641101.0,"weight":2.25,"etf_name":"ARKQ","weight_diff":0}],"CAT":[{"id":3218,"symbol":"CAT","name":"Caterpillar Inc.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":3218,"dt":"2021-06-04","shares":245147.0,"weight":2.06,"etf_name":"ARKQ","weight_diff":0}],"RAVN":[{"id":2637,"symbol":"RAVN","name":"Raven Industries, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":2637,"dt":"2021-06-04","shares":1245697.0,"weight":1.91,"etf_name":"ARKQ","weight_diff":0}],"ISRG":[{"id":1983,"symbol":"ISRG","name":"Intuitive Surgical, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":1983,"dt":"2021-06-04","shares":52282.0,"weight":1.47,"etf_name":"ARKQ","weight_diff":0}],"AVAV":[{"id":39,"symbol":"AVAV","name":"AeroVironment, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":39,"dt":"2021-06-04","shares":384545.0,"weight":1.45,"etf_name":"ARKQ","weight_diff":0}],"NVDA":[{"id":4854,"symbol":"NVDA","name":"NVIDIA Corporation Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":4854,"dt":"2021-06-04","shares":59176.0,"weight":1.38,"etf_name":"ARKQ","weight_diff":0}],"TDY":[{"id":8422,"symbol":"TDY","name":"Teledyne Technologies Incorporated","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8422,"dt":"2021-06-04","shares":91162.0,"weight":1.32,"etf_name":"ARKQ","weight_diff":0}],"SNPS":[{"id":6127,"symbol":"SNPS","name":"Synopsys, Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":6127,"dt":"2021-06-04","shares":132681.0,"weight":1.14,"etf_name":"ARKQ","weight_diff":0}],"ACIC":[{"id":6859,"symbol":"ACIC","name":"Atlas Crest Investment Corp.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":6859,"dt":"2021-06-04","shares":2988461.0,"weight":1.02,"etf_name":"ARKQ","weight_diff":0}],"PCAR":[{"id":131,"symbol":"PCAR","name":"PACCAR Inc. Common Stock","exchange":"NASDAQ","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":131,"dt":"2021-06-04","shares":302552.0,"weight":0.97,"etf_name":"ARKQ","weight_diff":0}],"SPFR":[{"id":3120,"symbol":"SPFR","name":"Jaws Spitfire Acquisition Corporation","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":3120,"dt":"2021-06-04","shares":2734886.0,"weight":0.94,"etf_name":"ARKQ","weight_diff":0}],"AONE":[{"id":6515,"symbol":"AONE","name":"one","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":6515,"dt":"2021-06-04","shares":2143411.0,"weight":0.74,"etf_name":"ARKQ","weight_diff":0}],"GLEO":[{"id":8169,"symbol":"GLEO","name":"Galileo Acquisition Corp.","exchange":"NYSE","shortable":false,"is_etf":false,"etf_id":6824,"holding_id":8169,"dt":"2021-06-04","shares":1191688.0,"weight":0.41,"etf_name":"ARKQ","weight_diff":0}]}}
+{
+  "movers_info": {
+    "date": "06-06-2021",
+    "max_symbol": "",
+    "max": 0,
+    "min_symbol": "",
+    "min": 0
+  },
+  "stocks": {
+    "DDD": [
+      {
+        "id": 8631,
+        "symbol": "DDD",
+        "name": "3D Systems Corp",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 8631,
+        "dt": "2021-06-04",
+        "shares": 1245906.0,
+        "weight": 6.92,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 8631,
+        "symbol": "DDD",
+        "name": "3D Systems Corp",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8631,
+        "dt": "2021-06-04",
+        "shares": 3042254.0,
+        "weight": 3.17,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "XONE": [
+      {
+        "id": 3541,
+        "symbol": "XONE",
+        "name": "The ExOne Company Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 3541,
+        "dt": "2021-06-04",
+        "shares": 1404628.0,
+        "weight": 5.64,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 3541,
+        "symbol": "XONE",
+        "name": "The ExOne Company Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 3541,
+        "dt": "2021-06-04",
+        "shares": 774532.0,
+        "weight": 0.58,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "DM": [
+      {
+        "id": 3343,
+        "symbol": "DM",
+        "name": "Desktop Metal, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 3343,
+        "dt": "2021-06-04",
+        "shares": 1894776.0,
+        "weight": 5.08,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ALTR": [
+      {
+        "id": 6705,
+        "symbol": "ALTR",
+        "name": "Altair Engineering Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 6705,
+        "dt": "2021-06-04",
+        "shares": 400858.0,
+        "weight": 4.85,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "TRMB": [
+      {
+        "id": 6304,
+        "symbol": "TRMB",
+        "name": "Trimble Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 6304,
+        "dt": "2021-06-04",
+        "shares": 300891.0,
+        "weight": 4.3,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 6304,
+        "symbol": "TRMB",
+        "name": "Trimble Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 6304,
+        "dt": "2021-06-04",
+        "shares": 1398222.0,
+        "weight": 0.54,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 6304,
+        "symbol": "TRMB",
+        "name": "Trimble Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 6304,
+        "dt": "2021-06-04",
+        "shares": 2178884.0,
+        "weight": 5.84,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "MSFT": [
+      {
+        "id": 4853,
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4853,
+        "dt": "2021-06-04",
+        "shares": 95141.0,
+        "weight": 4.29,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "HPQ": [
+      {
+        "id": 1602,
+        "symbol": "HPQ",
+        "name": "HP Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 1602,
+        "dt": "2021-06-04",
+        "shares": 778733.0,
+        "weight": 4.28,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ADSK": [
+      {
+        "id": 4512,
+        "symbol": "ADSK",
+        "name": "Autodesk, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4512,
+        "dt": "2021-06-04",
+        "shares": 82608.0,
+        "weight": 4.16,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ANSS": [
+      {
+        "id": 8890,
+        "symbol": "ANSS",
+        "name": "ANSYS, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 8890,
+        "dt": "2021-06-04",
+        "shares": 65919.0,
+        "weight": 3.99,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 8890,
+        "symbol": "ANSS",
+        "name": "ANSYS, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8890,
+        "dt": "2021-06-04",
+        "shares": 94272.0,
+        "weight": 1.07,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "PTC": [
+      {
+        "id": 2626,
+        "symbol": "PTC",
+        "name": "PTC Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 2626,
+        "dt": "2021-06-04",
+        "shares": 167324.0,
+        "weight": 3.98,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "SSYS": [
+      {
+        "id": 6218,
+        "symbol": "SSYS",
+        "name": "Stratasys, Ltd. Ordinary Shares (Israel)",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 6218,
+        "dt": "2021-06-04",
+        "shares": 147887.0,
+        "weight": 0.94,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      },
+      {
+        "id": 6218,
+        "symbol": "SSYS",
+        "name": "Stratasys, Ltd. Ordinary Shares (Israel)",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 6218,
+        "dt": "2021-06-04",
+        "shares": 679289.0,
+        "weight": 2.88,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 6218,
+        "symbol": "SSYS",
+        "name": "Stratasys, Ltd. Ordinary Shares (Israel)",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 6218,
+        "dt": "2021-06-04",
+        "shares": 4743848.0,
+        "weight": 0.54,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 6218,
+        "symbol": "SSYS",
+        "name": "Stratasys, Ltd. Ordinary Shares (Israel)",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 6218,
+        "dt": "2021-06-04",
+        "shares": 1146335.0,
+        "weight": 0.91,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "PRLB": [
+      {
+        "id": 9269,
+        "symbol": "PRLB",
+        "name": "PROTO LABS, INC.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 9269,
+        "dt": "2021-06-04",
+        "shares": 122287.0,
+        "weight": 1.98,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 9269,
+        "symbol": "PRLB",
+        "name": "PROTO LABS, INC.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 9269,
+        "dt": "2021-06-04",
+        "shares": 2278074.0,
+        "weight": 1.0,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 9269,
+        "symbol": "PRLB",
+        "name": "PROTO LABS, INC.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 9269,
+        "dt": "2021-06-04",
+        "shares": 200923.0,
+        "weight": 0.61,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "MTLS": [
+      {
+        "id": 4532,
+        "symbol": "MTLS",
+        "name": "Materialise NV American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4532,
+        "dt": "2021-06-04",
+        "shares": 313893.0,
+        "weight": 1.57,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 4532,
+        "symbol": "MTLS",
+        "name": "Materialise NV American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 4532,
+        "dt": "2021-06-04",
+        "shares": 4225709.0,
+        "weight": 0.57,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 4532,
+        "symbol": "MTLS",
+        "name": "Materialise NV American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 4532,
+        "dt": "2021-06-04",
+        "shares": 1588283.0,
+        "weight": 1.49,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "AME": [
+      {
+        "id": 6544,
+        "symbol": "AME",
+        "name": "Ametek, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 6544,
+        "dt": "2021-06-04",
+        "shares": 54104.0,
+        "weight": 1.36,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ARNC": [
+      {
+        "id": 4145,
+        "symbol": "ARNC",
+        "name": "Arconic Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4145,
+        "dt": "2021-06-04",
+        "shares": 181907.0,
+        "weight": 1.24,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ALGN": [
+      {
+        "id": 6730,
+        "symbol": "ALGN",
+        "name": "Align Technology, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 6730,
+        "dt": "2021-06-04",
+        "shares": 11867.0,
+        "weight": 1.24,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "FARO": [
+      {
+        "id": 7119,
+        "symbol": "FARO",
+        "name": "FARO Technologies, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 7119,
+        "dt": "2021-06-04",
+        "shares": 86201.0,
+        "weight": 1.17,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "UPS": [
+      {
+        "id": 4066,
+        "symbol": "UPS",
+        "name": "United Parcel Service, Inc. Class B",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4066,
+        "dt": "2021-06-04",
+        "shares": 27807.0,
+        "weight": 1.08,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "KALU": [
+      {
+        "id": 8799,
+        "symbol": "KALU",
+        "name": "Kaiser Aluminum Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 8799,
+        "dt": "2021-06-04",
+        "shares": 43855.0,
+        "weight": 1.07,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "LECO": [
+      {
+        "id": 7491,
+        "symbol": "LECO",
+        "name": "Lincoln Electric Holdings, Inc. Common Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 7491,
+        "dt": "2021-06-04",
+        "shares": 40590.0,
+        "weight": 0.97,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "GE": [
+      {
+        "id": 8912,
+        "symbol": "GE",
+        "name": "General Electric Company",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 8912,
+        "dt": "2021-06-04",
+        "shares": 368483.0,
+        "weight": 0.95,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "UCTT": [
+      {
+        "id": 4518,
+        "symbol": "UCTT",
+        "name": "Ultra Clean Holdings, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4518,
+        "dt": "2021-06-04",
+        "shares": 91158.0,
+        "weight": 0.93,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "AJRD": [
+      {
+        "id": 92,
+        "symbol": "AJRD",
+        "name": "Aerojet Rocketdyne Holdings, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 92,
+        "dt": "2021-06-04",
+        "shares": 103277.0,
+        "weight": 0.92,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "SYK": [
+      {
+        "id": 8369,
+        "symbol": "SYK",
+        "name": "Stryker Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 8369,
+        "dt": "2021-06-04",
+        "shares": 19462.0,
+        "weight": 0.89,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "NUVA": [
+      {
+        "id": 3703,
+        "symbol": "NUVA",
+        "name": "NuVasive, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 3703,
+        "dt": "2021-06-04",
+        "shares": 72430.0,
+        "weight": 0.87,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "NNDM": [
+      {
+        "id": 8974,
+        "symbol": "NNDM",
+        "name": "Nano Dimension Ltd. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8974,
+        "dt": "2021-06-04",
+        "shares": 748425.0,
+        "weight": 1.5,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      },
+      {
+        "id": 8974,
+        "symbol": "NNDM",
+        "name": "Nano Dimension Ltd. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 8974,
+        "dt": "2021-06-04",
+        "shares": 201123.0,
+        "weight": 0.27,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      },
+      {
+        "id": 8974,
+        "symbol": "NNDM",
+        "name": "Nano Dimension Ltd. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8974,
+        "dt": "2021-06-04",
+        "shares": 7461444.0,
+        "weight": 1.01,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8974,
+        "symbol": "NNDM",
+        "name": "Nano Dimension Ltd. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8974,
+        "dt": "2021-06-04",
+        "shares": 7707501.0,
+        "weight": 1.93,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "DD": [
+      {
+        "id": 4690,
+        "symbol": "DD",
+        "name": "DuPont de Nemours, Inc. Common Stock",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4690,
+        "dt": "2021-06-04",
+        "shares": 8819.0,
+        "weight": 0.14,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "EMN": [
+      {
+        "id": 9015,
+        "symbol": "EMN",
+        "name": "Eastman Chemical Company",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 9015,
+        "dt": "2021-06-04",
+        "shares": 5944.0,
+        "weight": 0.14,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "KODK": [
+      {
+        "id": 2099,
+        "symbol": "KODK",
+        "name": "EASTMAN KODAK COMPANY",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 2099,
+        "dt": "2021-06-04",
+        "shares": 93629.0,
+        "weight": 0.14,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ATI": [
+      {
+        "id": 6804,
+        "symbol": "ATI",
+        "name": "Allegheny Technologies",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 6804,
+        "dt": "2021-06-04",
+        "shares": 30670.0,
+        "weight": 0.13,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "DSM": [
+      {
+        "id": 7081,
+        "symbol": "DSM",
+        "name": "BNY Mellon Strategic Municipal Bond Fund, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 7081,
+        "dt": "2021-06-04",
+        "shares": 3827.0,
+        "weight": 0.13,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "VOE": [
+      {
+        "id": 4654,
+        "symbol": "VOE",
+        "name": "Vanguard Mid-Cap Value ETF",
+        "exchange": "ARCA",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 4654,
+        "dt": "2021-06-04",
+        "shares": 15436.0,
+        "weight": 0.13,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "HXL": [
+      {
+        "id": 3478,
+        "symbol": "HXL",
+        "name": "Hexcel Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 3478,
+        "dt": "2021-06-04",
+        "shares": 12123.0,
+        "weight": 0.13,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "CRS": [
+      {
+        "id": 753,
+        "symbol": "CRS",
+        "name": "Carpenter Technology Corp",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 753,
+        "dt": "2021-06-04",
+        "shares": 16286.0,
+        "weight": 0.13,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "MMM": [
+      {
+        "id": 2390,
+        "symbol": "MMM",
+        "name": "3M Company",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 2390,
+        "dt": "2021-06-04",
+        "shares": 3353.0,
+        "weight": 0.13,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "EVK": [
+      {
+        "id": 1363,
+        "symbol": "EVK",
+        "name": "Ever-Glory International Group, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 1363,
+        "dt": "2021-06-04",
+        "shares": 18699.0,
+        "weight": 0.12,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "SAND": [
+      {
+        "id": 3794,
+        "symbol": "SAND",
+        "name": "Sandstorm Gold Ltd",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 2623,
+        "holding_id": 3794,
+        "dt": "2021-06-04",
+        "shares": 24202.0,
+        "weight": 0.12,
+        "etf_name": "PRNT",
+        "weight_diff": 0
+      }
+    ],
+    "ONE": [
+      {
+        "id": 5677,
+        "symbol": "ONE",
+        "name": "OneSmart International Education Group Limited",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 5677,
+        "dt": "2021-06-04",
+        "shares": 437860.0,
+        "weight": 15.63,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ITRN": [
+      {
+        "id": 1892,
+        "symbol": "ITRN",
+        "name": "Ituran Location and Control Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 1892,
+        "dt": "2021-06-04",
+        "shares": 265928.0,
+        "weight": 1.78,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "KRNT": [
+      {
+        "id": 2016,
+        "symbol": "KRNT",
+        "name": "Kornit Digital Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 2016,
+        "dt": "2021-06-04",
+        "shares": 54825.0,
+        "weight": 1.74,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "CAMT": [
+      {
+        "id": 7023,
+        "symbol": "CAMT",
+        "name": "Camtek Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7023,
+        "dt": "2021-06-04",
+        "shares": 170464.0,
+        "weight": 1.72,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "CEL": [
+      {
+        "id": 8642,
+        "symbol": "CEL",
+        "name": "Cellcom Israel, Ltd.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8642,
+        "dt": "2021-06-04",
+        "shares": 1586815.0,
+        "weight": 1.68,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "AUDC": [
+      {
+        "id": 7846,
+        "symbol": "AUDC",
+        "name": "AudioCodes Ltd. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7846,
+        "dt": "2021-06-04",
+        "shares": 183498.0,
+        "weight": 1.66,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ALLT": [
+      {
+        "id": 8577,
+        "symbol": "ALLT",
+        "name": "Allot Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8577,
+        "dt": "2021-06-04",
+        "shares": 327655.0,
+        "weight": 1.66,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "NVMI": [
+      {
+        "id": 5572,
+        "symbol": "NVMI",
+        "name": "Nova Measuring Instruments Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 5572,
+        "dt": "2021-06-04",
+        "shares": 59977.0,
+        "weight": 1.63,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "GILT": [
+      {
+        "id": 9246,
+        "symbol": "GILT",
+        "name": "Gilat Satellite Networks Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 9246,
+        "dt": "2021-06-04",
+        "shares": 567142.0,
+        "weight": 1.61,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "PYPD": [
+      {
+        "id": 2680,
+        "symbol": "PYPD",
+        "name": "PolyPid Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 2680,
+        "dt": "2021-06-04",
+        "shares": 617622.0,
+        "weight": 1.6,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "RDWR": [
+      {
+        "id": 2784,
+        "symbol": "RDWR",
+        "name": "Radware Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 2784,
+        "dt": "2021-06-04",
+        "shares": 200863.0,
+        "weight": 1.59,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ROBO": [
+      {
+        "id": 2799,
+        "symbol": "ROBO",
+        "name": "ROBO Global Robotics & Automation Index ETF",
+        "exchange": "ARCA",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 2799,
+        "dt": "2021-06-04",
+        "shares": 3380119.0,
+        "weight": 1.59,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "CHKP": [
+      {
+        "id": 593,
+        "symbol": "CHKP",
+        "name": "Check Point Software Technologies Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 593,
+        "dt": "2021-06-04",
+        "shares": 48772.0,
+        "weight": 1.58,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "MTRX": [
+      {
+        "id": 8274,
+        "symbol": "MTRX",
+        "name": "Matrix Service Company Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8274,
+        "dt": "2021-06-04",
+        "shares": 220741.0,
+        "weight": 1.57,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "PTNR": [
+      {
+        "id": 2597,
+        "symbol": "PTNR",
+        "name": "Partner Communications Company Ltd. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 2597,
+        "dt": "2021-06-04",
+        "shares": 1247394.0,
+        "weight": 1.56,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "DRIO": [
+      {
+        "id": 3516,
+        "symbol": "DRIO",
+        "name": "DarioHealth Corp. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 3516,
+        "dt": "2021-06-04",
+        "shares": 306156.0,
+        "weight": 1.56,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "MGIC": [
+      {
+        "id": 7658,
+        "symbol": "MGIC",
+        "name": "Magic Software Enterprises Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7658,
+        "dt": "2021-06-04",
+        "shares": 353836.0,
+        "weight": 1.54,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "RDHL": [
+      {
+        "id": 8849,
+        "symbol": "RDHL",
+        "name": "Redhill Biopharma Ltd. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8849,
+        "dt": "2021-06-04",
+        "shares": 803397.0,
+        "weight": 1.54,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ARD": [
+      {
+        "id": 6726,
+        "symbol": "ARD",
+        "name": "Ardagh Group S.A. Class A Common Shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 6726,
+        "dt": "2021-06-04",
+        "shares": 395957.0,
+        "weight": 1.54,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "TARO": [
+      {
+        "id": 8333,
+        "symbol": "TARO",
+        "name": "Taro Pharmaceutical Industries Ltd.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8333,
+        "dt": "2021-06-04",
+        "shares": 78142.0,
+        "weight": 1.53,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "INMD": [
+      {
+        "id": 9178,
+        "symbol": "INMD",
+        "name": "InMode Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 9178,
+        "dt": "2021-06-04",
+        "shares": 68105.0,
+        "weight": 1.53,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "CRNT": [
+      {
+        "id": 811,
+        "symbol": "CRNT",
+        "name": "Ceragon Networks Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 811,
+        "dt": "2021-06-04",
+        "shares": 1558355.0,
+        "weight": 1.52,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "TEVA": [
+      {
+        "id": 7919,
+        "symbol": "TEVA",
+        "name": "Teva Pharmaceutical Industries Limited American Depositary Shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7919,
+        "dt": "2021-06-04",
+        "shares": 522802.0,
+        "weight": 1.52,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "KMDA": [
+      {
+        "id": 2154,
+        "symbol": "KMDA",
+        "name": "Kamada Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 2154,
+        "dt": "2021-06-04",
+        "shares": 933518.0,
+        "weight": 1.51,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "PERI": [
+      {
+        "id": 3724,
+        "symbol": "PERI",
+        "name": "Perion Network Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 3724,
+        "dt": "2021-06-04",
+        "shares": 335775.0,
+        "weight": 1.48,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "SILC": [
+      {
+        "id": 3027,
+        "symbol": "SILC",
+        "name": "Silicom Ltd Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 3027,
+        "dt": "2021-06-04",
+        "shares": 126551.0,
+        "weight": 1.46,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "NICE": [
+      {
+        "id": 5523,
+        "symbol": "NICE",
+        "name": "NICE Ltd American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 5523,
+        "dt": "2021-06-04",
+        "shares": 24326.0,
+        "weight": 1.44,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ESLT": [
+      {
+        "id": 1301,
+        "symbol": "ESLT",
+        "name": "Elbit Systems Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 1301,
+        "dt": "2021-06-04",
+        "shares": 40009.0,
+        "weight": 1.43,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      },
+      {
+        "id": 1301,
+        "symbol": "ESLT",
+        "name": "Elbit Systems Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 1301,
+        "dt": "2021-06-04",
+        "shares": 264967.0,
+        "weight": 1.19,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "FVRR": [
+      {
+        "id": 7237,
+        "symbol": "FVRR",
+        "name": "Fiverr International Ltd.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7237,
+        "dt": "2021-06-04",
+        "shares": 25702.0,
+        "weight": 1.4,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "SEDG": [
+      {
+        "id": 3800,
+        "symbol": "SEDG",
+        "name": "SolarEdge Technologies, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 3800,
+        "dt": "2021-06-04",
+        "shares": 21375.0,
+        "weight": 1.4,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ENLV": [
+      {
+        "id": 9238,
+        "symbol": "ENLV",
+        "name": "Enlivex Therapeutics Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 9238,
+        "dt": "2021-06-04",
+        "shares": 525215.0,
+        "weight": 1.39,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "TSEM": [
+      {
+        "id": 7966,
+        "symbol": "TSEM",
+        "name": "Tower Semiconductor Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7966,
+        "dt": "2021-06-04",
+        "shares": 191527.0,
+        "weight": 1.39,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "WIX": [
+      {
+        "id": 6594,
+        "symbol": "WIX",
+        "name": "Wix.com Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 6594,
+        "dt": "2021-06-04",
+        "shares": 19624.0,
+        "weight": 1.38,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "CYBR": [
+      {
+        "id": 9262,
+        "symbol": "CYBR",
+        "name": "CyberArk Software Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 9262,
+        "dt": "2021-06-04",
+        "shares": 39995.0,
+        "weight": 1.36,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "RADA": [
+      {
+        "id": 5965,
+        "symbol": "RADA",
+        "name": "RADA Electronic Industries Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 5965,
+        "dt": "2021-06-04",
+        "shares": 433212.0,
+        "weight": 1.33,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "SPNS": [
+      {
+        "id": 6166,
+        "symbol": "SPNS",
+        "name": "Sapiens International Corporation N.V. Common Shares (Cayman Islands)",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 6166,
+        "dt": "2021-06-04",
+        "shares": 173155.0,
+        "weight": 1.31,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "FROG": [
+      {
+        "id": 7213,
+        "symbol": "FROG",
+        "name": "JFrog Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 7213,
+        "dt": "2021-06-04",
+        "shares": 109469.0,
+        "weight": 1.3,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "ITMR": [
+      {
+        "id": 8208,
+        "symbol": "ITMR",
+        "name": "Itamar Medical Ltd. American Depository Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 8208,
+        "dt": "2021-06-04",
+        "shares": 7346804.0,
+        "weight": 1.26,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "GMDA": [
+      {
+        "id": 1466,
+        "symbol": "GMDA",
+        "name": "Gamida Cell Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 1466,
+        "dt": "2021-06-04",
+        "shares": 703065.0,
+        "weight": 1.22,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "NNOX": [
+      {
+        "id": 9202,
+        "symbol": "NNOX",
+        "name": "NANO-X IMAGING LTD Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 9202,
+        "dt": "2021-06-04",
+        "shares": 157839.0,
+        "weight": 1.19,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      }
+    ],
+    "EVGN": [
+      {
+        "id": 3388,
+        "symbol": "EVGN",
+        "name": "Evogene Ltd Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 3388,
+        "dt": "2021-06-04",
+        "shares": 871152.0,
+        "weight": 0.85,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      },
+      {
+        "id": 3388,
+        "symbol": "EVGN",
+        "name": "Evogene Ltd Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3388,
+        "dt": "2021-06-04",
+        "shares": 3454174.0,
+        "weight": 0.15,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "CGEN": [
+      {
+        "id": 3261,
+        "symbol": "CGEN",
+        "name": "Compugen Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 3261,
+        "dt": "2021-06-04",
+        "shares": 407660.0,
+        "weight": 0.82,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      },
+      {
+        "id": 3261,
+        "symbol": "CGEN",
+        "name": "Compugen Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3261,
+        "dt": "2021-06-04",
+        "shares": 4311861.0,
+        "weight": 0.39,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 3261,
+        "symbol": "CGEN",
+        "name": "Compugen Ltd. Ordinary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3261,
+        "dt": "2021-06-04",
+        "shares": 7347839.0,
+        "weight": 0.27,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "PSTI": [
+      {
+        "id": 5883,
+        "symbol": "PSTI",
+        "name": "Pluristem Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 1991,
+        "holding_id": 5883,
+        "dt": "2021-06-04",
+        "shares": 679840.0,
+        "weight": 0.69,
+        "etf_name": "IZRL",
+        "weight_diff": 0
+      },
+      {
+        "id": 5883,
+        "symbol": "PSTI",
+        "name": "Pluristem Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 5883,
+        "dt": "2021-06-04",
+        "shares": 1527525.0,
+        "weight": 0.07,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "TDOC": [
+      {
+        "id": 8480,
+        "symbol": "TDOC",
+        "name": "Teladoc Health, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8480,
+        "dt": "2021-06-04",
+        "shares": 3886571.0,
+        "weight": 7.08,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 8480,
+        "symbol": "TDOC",
+        "name": "Teladoc Health, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8480,
+        "dt": "2021-06-04",
+        "shares": 1639970.0,
+        "weight": 4.5,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8480,
+        "symbol": "TDOC",
+        "name": "Teladoc Health, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8480,
+        "dt": "2021-06-04",
+        "shares": 8487605.0,
+        "weight": 6.17,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 8480,
+        "symbol": "TDOC",
+        "name": "Teladoc Health, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8480,
+        "dt": "2021-06-04",
+        "shares": 262304.0,
+        "weight": 1.07,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "EXAS": [
+      {
+        "id": 7114,
+        "symbol": "EXAS",
+        "name": "Exact Sciences Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 7114,
+        "dt": "2021-06-04",
+        "shares": 3796642.0,
+        "weight": 5.09,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 7114,
+        "symbol": "EXAS",
+        "name": "Exact Sciences Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 7114,
+        "dt": "2021-06-04",
+        "shares": 5636014.0,
+        "weight": 3.02,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "CDNA": [
+      {
+        "id": 6886,
+        "symbol": "CDNA",
+        "name": "CareDx, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 6886,
+        "dt": "2021-06-04",
+        "shares": 4502237.0,
+        "weight": 4.48,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "REGN": [
+      {
+        "id": 5971,
+        "symbol": "REGN",
+        "name": "Regeneron Pharmaceuticals, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 5971,
+        "dt": "2021-06-04",
+        "shares": 684265.0,
+        "weight": 4.3,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "PACB": [
+      {
+        "id": 5725,
+        "symbol": "PACB",
+        "name": "Pacific Biosciences of California, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 5725,
+        "dt": "2021-06-04",
+        "shares": 12934607.0,
+        "weight": 4.09,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 5725,
+        "symbol": "PACB",
+        "name": "Pacific Biosciences of California, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 5725,
+        "dt": "2021-06-04",
+        "shares": 6182844.0,
+        "weight": 0.78,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "NVS": [
+      {
+        "id": 5558,
+        "symbol": "NVS",
+        "name": "Novartis AG",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 5558,
+        "dt": "2021-06-04",
+        "shares": 3668042.0,
+        "weight": 4.07,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 5558,
+        "symbol": "NVS",
+        "name": "Novartis AG",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 5558,
+        "dt": "2021-06-04",
+        "shares": 1204522.0,
+        "weight": 0.53,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "VRTX": [
+      {
+        "id": 4216,
+        "symbol": "VRTX",
+        "name": "Vertex Pharmaceuticals Incorporated Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 4216,
+        "dt": "2021-06-04",
+        "shares": 1483037.0,
+        "weight": 3.89,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "IONS": [
+      {
+        "id": 8786,
+        "symbol": "IONS",
+        "name": "Ionis Pharmaceuticals, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8786,
+        "dt": "2021-06-04",
+        "shares": 7870826.0,
+        "weight": 3.4,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "FATE": [
+      {
+        "id": 3399,
+        "symbol": "FATE",
+        "name": "Fate Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3399,
+        "dt": "2021-06-04",
+        "shares": 3889586.0,
+        "weight": 3.25,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 3399,
+        "symbol": "FATE",
+        "name": "Fate Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3399,
+        "dt": "2021-06-04",
+        "shares": 3318016.0,
+        "weight": 1.11,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "ACCD": [
+      {
+        "id": 169,
+        "symbol": "ACCD",
+        "name": "Accolade, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 169,
+        "dt": "2021-06-04",
+        "shares": 5201559.0,
+        "weight": 3.24,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "TWST": [
+      {
+        "id": 6334,
+        "symbol": "TWST",
+        "name": "Twist Bioscience Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 6334,
+        "dt": "2021-06-04",
+        "shares": 2700724.0,
+        "weight": 3.23,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 6334,
+        "symbol": "TWST",
+        "name": "Twist Bioscience Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 6334,
+        "dt": "2021-06-04",
+        "shares": 2311882.0,
+        "weight": 1.1,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "VEEV": [
+      {
+        "id": 6414,
+        "symbol": "VEEV",
+        "name": "Veeva Systems Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 6414,
+        "dt": "2021-06-04",
+        "shares": 840959.0,
+        "weight": 2.98,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "INCY": [
+      {
+        "id": 3594,
+        "symbol": "INCY",
+        "name": "Incyte Corp. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3594,
+        "dt": "2021-06-04",
+        "shares": 2831811.0,
+        "weight": 2.92,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "TXG": [
+      {
+        "id": 9214,
+        "symbol": "TXG",
+        "name": "10x Genomics, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 9214,
+        "dt": "2021-06-04",
+        "shares": 1255280.0,
+        "weight": 2.7,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 9214,
+        "symbol": "TXG",
+        "name": "10x Genomics, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 9214,
+        "dt": "2021-06-04",
+        "shares": 2656587.0,
+        "weight": 2.28,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "CRSP": [
+      {
+        "id": 8929,
+        "symbol": "CRSP",
+        "name": "CRISPR Therapeutics AG Common Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8929,
+        "dt": "2021-06-04",
+        "shares": 1766510.0,
+        "weight": 2.41,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 8929,
+        "symbol": "CRSP",
+        "name": "CRISPR Therapeutics AG Common Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8929,
+        "dt": "2021-06-04",
+        "shares": 4834165.0,
+        "weight": 2.63,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "SDGR": [
+      {
+        "id": 3000,
+        "symbol": "SDGR",
+        "name": "Schrodinger, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3000,
+        "dt": "2021-06-04",
+        "shares": 2508101.0,
+        "weight": 2.21,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "ADPT": [
+      {
+        "id": 8893,
+        "symbol": "ADPT",
+        "name": "Adaptive Biotechnologies Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8893,
+        "dt": "2021-06-04",
+        "shares": 4193634.0,
+        "weight": 1.86,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "CSTL": [
+      {
+        "id": 758,
+        "symbol": "CSTL",
+        "name": "Castle Biosciences, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 758,
+        "dt": "2021-06-04",
+        "shares": 2499545.0,
+        "weight": 1.85,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "NVTA": [
+      {
+        "id": 3705,
+        "symbol": "NVTA",
+        "name": "Invitae Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3705,
+        "dt": "2021-06-04",
+        "shares": 5051925.0,
+        "weight": 1.7,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 3705,
+        "symbol": "NVTA",
+        "name": "Invitae Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3705,
+        "dt": "2021-06-04",
+        "shares": 13568239.0,
+        "weight": 1.82,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "BEAM": [
+      {
+        "id": 6856,
+        "symbol": "BEAM",
+        "name": "Beam Therapeutics Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 6856,
+        "dt": "2021-06-04",
+        "shares": 1697286.0,
+        "weight": 1.68,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 6856,
+        "symbol": "BEAM",
+        "name": "Beam Therapeutics Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 6856,
+        "dt": "2021-06-04",
+        "shares": 4529118.0,
+        "weight": 1.79,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "BLI": [
+      {
+        "id": 229,
+        "symbol": "BLI",
+        "name": "Berkeley Lights, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 229,
+        "dt": "2021-06-04",
+        "shares": 3166602.0,
+        "weight": 1.59,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 229,
+        "symbol": "BLI",
+        "name": "Berkeley Lights, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 229,
+        "dt": "2021-06-04",
+        "shares": 3465105.0,
+        "weight": 0.69,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "CDXS": [
+      {
+        "id": 3253,
+        "symbol": "CDXS",
+        "name": "Codexis, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3253,
+        "dt": "2021-06-04",
+        "shares": 6410975.0,
+        "weight": 1.58,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "IOVA": [
+      {
+        "id": 5262,
+        "symbol": "IOVA",
+        "name": "Iovance Biotherapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 5262,
+        "dt": "2021-06-04",
+        "shares": 7236196.0,
+        "weight": 1.57,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 5262,
+        "symbol": "IOVA",
+        "name": "Iovance Biotherapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 5262,
+        "dt": "2021-06-04",
+        "shares": 11068235.0,
+        "weight": 0.96,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "BMY": [
+      {
+        "id": 196,
+        "symbol": "BMY",
+        "name": "Bristol-Myers Squibb Co.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 196,
+        "dt": "2021-06-04",
+        "shares": 1826372.0,
+        "weight": 1.47,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "NTLA": [
+      {
+        "id": 2415,
+        "symbol": "NTLA",
+        "name": "Intellia Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 2415,
+        "dt": "2021-06-04",
+        "shares": 1642140.0,
+        "weight": 1.46,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 2415,
+        "symbol": "NTLA",
+        "name": "Intellia Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 2415,
+        "dt": "2021-06-04",
+        "shares": 4730534.0,
+        "weight": 1.68,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "PSTG": [
+      {
+        "id": 7833,
+        "symbol": "PSTG",
+        "name": "Pure Storage, Inc. Class A",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 7833,
+        "dt": "2021-06-04",
+        "shares": 5790585.0,
+        "weight": 1.34,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 7833,
+        "symbol": "PSTG",
+        "name": "Pure Storage, Inc. Class A",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 7833,
+        "dt": "2021-06-04",
+        "shares": 1957942.0,
+        "weight": 0.68,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 7833,
+        "symbol": "PSTG",
+        "name": "Pure Storage, Inc. Class A",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 7833,
+        "dt": "2021-06-04",
+        "shares": 8396053.0,
+        "weight": 0.77,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "PSNL": [
+      {
+        "id": 3746,
+        "symbol": "PSNL",
+        "name": "Personalis, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3746,
+        "dt": "2021-06-04",
+        "shares": 5079701.0,
+        "weight": 1.31,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "MASS": [
+      {
+        "id": 2209,
+        "symbol": "MASS",
+        "name": "908 Devices Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 2209,
+        "dt": "2021-06-04",
+        "shares": 2308627.0,
+        "weight": 1.22,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "ONEM": [
+      {
+        "id": 7631,
+        "symbol": "ONEM",
+        "name": "1Life Healthcare, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 7631,
+        "dt": "2021-06-04",
+        "shares": 2539247.0,
+        "weight": 1.15,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "VCYT": [
+      {
+        "id": 4009,
+        "symbol": "VCYT",
+        "name": "Veracyte, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 4009,
+        "dt": "2021-06-04",
+        "shares": 2012273.0,
+        "weight": 0.85,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 4009,
+        "symbol": "VCYT",
+        "name": "Veracyte, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 4009,
+        "dt": "2021-06-04",
+        "shares": 1193760.0,
+        "weight": 0.76,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 4009,
+        "symbol": "VCYT",
+        "name": "Veracyte, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 4009,
+        "dt": "2021-06-04",
+        "shares": 3547016.0,
+        "weight": 0.6,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "CLLS": [
+      {
+        "id": 577,
+        "symbol": "CLLS",
+        "name": "Cellectis S.A. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 577,
+        "dt": "2021-06-04",
+        "shares": 4549369.0,
+        "weight": 0.81,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "ABBV": [
+      {
+        "id": 8943,
+        "symbol": "ABBV",
+        "name": "ABBVIE INC.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8943,
+        "dt": "2021-06-04",
+        "shares": 524245.0,
+        "weight": 0.73,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "RPTX": [
+      {
+        "id": 4509,
+        "symbol": "RPTX",
+        "name": "Repare Therapeutics Inc. Common Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 4509,
+        "dt": "2021-06-04",
+        "shares": 1835536.0,
+        "weight": 0.72,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "CMLF": [
+      {
+        "id": 609,
+        "symbol": "CMLF",
+        "name": "CM Life Sciences, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 609,
+        "dt": "2021-06-04",
+        "shares": 4402159.0,
+        "weight": 0.64,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "MCRB": [
+      {
+        "id": 3657,
+        "symbol": "MCRB",
+        "name": "Seres Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 3657,
+        "dt": "2021-06-04",
+        "shares": 2677721.0,
+        "weight": 0.61,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 3657,
+        "symbol": "MCRB",
+        "name": "Seres Therapeutics, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3657,
+        "dt": "2021-06-04",
+        "shares": 5888970.0,
+        "weight": 0.54,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "NSTG": [
+      {
+        "id": 5563,
+        "symbol": "NSTG",
+        "name": "NanoString Technologies, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 5563,
+        "dt": "2021-06-04",
+        "shares": 917762.0,
+        "weight": 0.6,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 5563,
+        "symbol": "NSTG",
+        "name": "NanoString Technologies, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 5563,
+        "dt": "2021-06-04",
+        "shares": 1874428.0,
+        "weight": 0.49,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "EDIT": [
+      {
+        "id": 8927,
+        "symbol": "EDIT",
+        "name": "Editas Medicine, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8927,
+        "dt": "2021-06-04",
+        "shares": 1365680.0,
+        "weight": 0.57,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 8927,
+        "symbol": "EDIT",
+        "name": "Editas Medicine, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8927,
+        "dt": "2021-06-04",
+        "shares": 4876241.0,
+        "weight": 0.81,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "SRPT": [
+      {
+        "id": 6203,
+        "symbol": "SRPT",
+        "name": "Sarepta Therapeutics, Inc. Common Stock (DE)",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 6203,
+        "dt": "2021-06-04",
+        "shares": 579255.0,
+        "weight": 0.53,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "SURF": [
+      {
+        "id": 8332,
+        "symbol": "SURF",
+        "name": "Surface Oncology, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 8332,
+        "dt": "2021-06-04",
+        "shares": 4273283.0,
+        "weight": 0.48,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "AQB": [
+      {
+        "id": 4837,
+        "symbol": "AQB",
+        "name": "AquaBounty Technologies, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 4837,
+        "dt": "2021-06-04",
+        "shares": 6599352.0,
+        "weight": 0.46,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "CERS": [
+      {
+        "id": 6762,
+        "symbol": "CERS",
+        "name": "Cerus Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 6762,
+        "dt": "2021-06-04",
+        "shares": 6145630.0,
+        "weight": 0.41,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 6762,
+        "symbol": "CERS",
+        "name": "Cerus Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 6762,
+        "dt": "2021-06-04",
+        "shares": 13966358.0,
+        "weight": 0.37,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "SEER": [
+      {
+        "id": 7883,
+        "symbol": "SEER",
+        "name": "Seer, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 7883,
+        "dt": "2021-06-04",
+        "shares": 962429.0,
+        "weight": 0.4,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "GH": [
+      {
+        "id": 1581,
+        "symbol": "GH",
+        "name": "Guardant Health, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 1581,
+        "dt": "2021-06-04",
+        "shares": 128395.0,
+        "weight": 0.19,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "DRNA": [
+      {
+        "id": 964,
+        "symbol": "DRNA",
+        "name": "Dicerna Pharmaceuticals, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 964,
+        "dt": "2021-06-04",
+        "shares": 315023.0,
+        "weight": 0.12,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      }
+    ],
+    "SYRS": [
+      {
+        "id": 4551,
+        "symbol": "SYRS",
+        "name": "Syros Pharmaceuticals, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4414,
+        "holding_id": 4551,
+        "dt": "2021-06-04",
+        "shares": 6417.0,
+        "weight": 0.0,
+        "etf_name": "ARKG",
+        "weight_diff": 0
+      },
+      {
+        "id": 4551,
+        "symbol": "SYRS",
+        "name": "Syros Pharmaceuticals, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 4551,
+        "dt": "2021-06-04",
+        "shares": 15959.0,
+        "weight": 0.0,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "TSLA": [
+      {
+        "id": 8911,
+        "symbol": "TSLA",
+        "name": "Tesla, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8911,
+        "dt": "2021-06-04",
+        "shares": 897654.0,
+        "weight": 9.62,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8911,
+        "symbol": "TSLA",
+        "name": "Tesla, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8911,
+        "dt": "2021-06-04",
+        "shares": 3442727.0,
+        "weight": 9.78,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 8911,
+        "symbol": "TSLA",
+        "name": "Tesla, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8911,
+        "dt": "2021-06-04",
+        "shares": 492324.0,
+        "weight": 9.71,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "SHOP": [
+      {
+        "id": 3809,
+        "symbol": "SHOP",
+        "name": "Shopify Inc. Class A subordinate voting shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3809,
+        "dt": "2021-06-04",
+        "shares": 213647.0,
+        "weight": 4.79,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 3809,
+        "symbol": "SHOP",
+        "name": "Shopify Inc. Class A subordinate voting shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3809,
+        "dt": "2021-06-04",
+        "shares": 716771.0,
+        "weight": 4.26,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 3809,
+        "symbol": "SHOP",
+        "name": "Shopify Inc. Class A subordinate voting shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 3809,
+        "dt": "2021-06-04",
+        "shares": 154615.0,
+        "weight": 5.17,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "TWTR": [
+      {
+        "id": 7968,
+        "symbol": "TWTR",
+        "name": "Twitter, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 7968,
+        "dt": "2021-06-04",
+        "shares": 4437365.0,
+        "weight": 4.73,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 7968,
+        "symbol": "TWTR",
+        "name": "Twitter, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 7968,
+        "dt": "2021-06-04",
+        "shares": 6476395.0,
+        "weight": 1.83,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "SQ": [
+      {
+        "id": 8995,
+        "symbol": "SQ",
+        "name": "Square, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8995,
+        "dt": "2021-06-04",
+        "shares": 1131735.0,
+        "weight": 4.48,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8995,
+        "symbol": "SQ",
+        "name": "Square, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8995,
+        "dt": "2021-06-04",
+        "shares": 4391015.0,
+        "weight": 4.6,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 8995,
+        "symbol": "SQ",
+        "name": "Square, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8995,
+        "dt": "2021-06-04",
+        "shares": 1639959.0,
+        "weight": 9.66,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "SPOT": [
+      {
+        "id": 8980,
+        "symbol": "SPOT",
+        "name": "Spotify Technology S.A.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8980,
+        "dt": "2021-06-04",
+        "shares": 879242.0,
+        "weight": 3.82,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8980,
+        "symbol": "SPOT",
+        "name": "Spotify Technology S.A.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8980,
+        "dt": "2021-06-04",
+        "shares": 3059379.0,
+        "weight": 3.52,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "ROKU": [
+      {
+        "id": 2801,
+        "symbol": "ROKU",
+        "name": "Roku, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 2801,
+        "dt": "2021-06-04",
+        "shares": 614674.0,
+        "weight": 3.72,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 2801,
+        "symbol": "ROKU",
+        "name": "Roku, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 2801,
+        "dt": "2021-06-04",
+        "shares": 3458717.0,
+        "weight": 5.55,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "TWLO": [
+      {
+        "id": 4059,
+        "symbol": "TWLO",
+        "name": "Twilio Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 4059,
+        "dt": "2021-06-04",
+        "shares": 610894.0,
+        "weight": 3.54,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 4059,
+        "symbol": "TWLO",
+        "name": "Twilio Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 4059,
+        "dt": "2021-06-04",
+        "shares": 2277542.0,
+        "weight": 3.5,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 4059,
+        "symbol": "TWLO",
+        "name": "Twilio Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4059,
+        "dt": "2021-06-04",
+        "shares": 367006.0,
+        "weight": 3.17,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "PTON": [
+      {
+        "id": 3748,
+        "symbol": "PTON",
+        "name": "Peloton Interactive, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3748,
+        "dt": "2021-06-04",
+        "shares": 1627169.0,
+        "weight": 3.14,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "SKLZ": [
+      {
+        "id": 3057,
+        "symbol": "SKLZ",
+        "name": "Skillz Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3057,
+        "dt": "2021-06-04",
+        "shares": 7482723.0,
+        "weight": 2.97,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 3057,
+        "symbol": "SKLZ",
+        "name": "Skillz Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3057,
+        "dt": "2021-06-04",
+        "shares": 15180627.0,
+        "weight": 1.6,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "SE": [
+      {
+        "id": 5991,
+        "symbol": "SE",
+        "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 5991,
+        "dt": "2021-06-04",
+        "shares": 633566.0,
+        "weight": 2.96,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 5991,
+        "symbol": "SE",
+        "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 5991,
+        "dt": "2021-06-04",
+        "shares": 1359346.0,
+        "weight": 1.68,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 5991,
+        "symbol": "SE",
+        "name": "Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 5991,
+        "dt": "2021-06-04",
+        "shares": 711846.0,
+        "weight": 4.95,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "ZM": [
+      {
+        "id": 8975,
+        "symbol": "ZM",
+        "name": "Zoom Video Communications, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8975,
+        "dt": "2021-06-04",
+        "shares": 491883.0,
+        "weight": 2.94,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8975,
+        "symbol": "ZM",
+        "name": "Zoom Video Communications, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8975,
+        "dt": "2021-06-04",
+        "shares": 2762702.0,
+        "weight": 4.37,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "U": [
+      {
+        "id": 6341,
+        "symbol": "U",
+        "name": "Unity Software Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 6341,
+        "dt": "2021-06-04",
+        "shares": 1525393.0,
+        "weight": 2.66,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 6341,
+        "symbol": "U",
+        "name": "Unity Software Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 6341,
+        "dt": "2021-06-04",
+        "shares": 7472530.0,
+        "weight": 3.45,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 6341,
+        "symbol": "U",
+        "name": "Unity Software Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 6341,
+        "dt": "2021-06-04",
+        "shares": 769952.0,
+        "weight": 2.47,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "PLTR": [
+      {
+        "id": 2476,
+        "symbol": "PLTR",
+        "name": "Palantir Technologies Inc. Class A Common Stock",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 2476,
+        "dt": "2021-06-04",
+        "shares": 5311764.0,
+        "weight": 2.35,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 2476,
+        "symbol": "PLTR",
+        "name": "Palantir Technologies Inc. Class A Common Stock",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 2476,
+        "dt": "2021-06-04",
+        "shares": 22142340.0,
+        "weight": 2.59,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "Z": [
+      {
+        "id": 4328,
+        "symbol": "Z",
+        "name": "Zillow Group, Inc. Class C Capital Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 4328,
+        "dt": "2021-06-04",
+        "shares": 1120398.0,
+        "weight": 2.27,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 4328,
+        "symbol": "Z",
+        "name": "Zillow Group, Inc. Class C Capital Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 4328,
+        "dt": "2021-06-04",
+        "shares": 6285214.0,
+        "weight": 3.38,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 4328,
+        "symbol": "Z",
+        "name": "Zillow Group, Inc. Class C Capital Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4328,
+        "dt": "2021-06-04",
+        "shares": 1491489.0,
+        "weight": 4.51,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "TTD": [
+      {
+        "id": 8982,
+        "symbol": "TTD",
+        "name": "The Trade Desk, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8982,
+        "dt": "2021-06-04",
+        "shares": 210113.0,
+        "weight": 2.23,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "DKNG": [
+      {
+        "id": 8930,
+        "symbol": "DKNG",
+        "name": "DraftKings Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8930,
+        "dt": "2021-06-04",
+        "shares": 2161938.0,
+        "weight": 2.01,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8930,
+        "symbol": "DKNG",
+        "name": "DraftKings Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8930,
+        "dt": "2021-06-04",
+        "shares": 7933402.0,
+        "weight": 1.96,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 8930,
+        "symbol": "DKNG",
+        "name": "DraftKings Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8930,
+        "dt": "2021-06-04",
+        "shares": 1095479.0,
+        "weight": 1.52,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "JD": [
+      {
+        "id": 3609,
+        "symbol": "JD",
+        "name": "JD.com, Inc. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3609,
+        "dt": "2021-06-04",
+        "shares": 1400080.0,
+        "weight": 1.98,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 3609,
+        "symbol": "JD",
+        "name": "JD.com, Inc. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 3609,
+        "dt": "2021-06-04",
+        "shares": 1665776.0,
+        "weight": 3.51,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      },
+      {
+        "id": 3609,
+        "symbol": "JD",
+        "name": "JD.com, Inc. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 3609,
+        "dt": "2021-06-04",
+        "shares": 2531417.0,
+        "weight": 6.58,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "PDD": [
+      {
+        "id": 5787,
+        "symbol": "PDD",
+        "name": "Pinduoduo Inc. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 5787,
+        "dt": "2021-06-04",
+        "shares": 761588.0,
+        "weight": 1.9,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 5787,
+        "symbol": "PDD",
+        "name": "Pinduoduo Inc. American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 5787,
+        "dt": "2021-06-04",
+        "shares": 645740.0,
+        "weight": 2.4,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "PYPL": [
+      {
+        "id": 8887,
+        "symbol": "PYPL",
+        "name": "PayPal Holdings, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8887,
+        "dt": "2021-06-04",
+        "shares": 306503.0,
+        "weight": 1.48,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8887,
+        "symbol": "PYPL",
+        "name": "PayPal Holdings, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8887,
+        "dt": "2021-06-04",
+        "shares": 639357.0,
+        "weight": 4.59,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "NET": [
+      {
+        "id": 2351,
+        "symbol": "NET",
+        "name": "Cloudflare, Inc. Class A common stock, par value $0.001 per share",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 2351,
+        "dt": "2021-06-04",
+        "shares": 950418.0,
+        "weight": 1.46,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "OKTA": [
+      {
+        "id": 5651,
+        "symbol": "OKTA",
+        "name": "Okta, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 5651,
+        "dt": "2021-06-04",
+        "shares": 352579.0,
+        "weight": 1.39,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "BEKE": [
+      {
+        "id": 3180,
+        "symbol": "BEKE",
+        "name": "KE Holdings Inc. American Depositary Shares (each representing three Class A Ordinary Shares)",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3180,
+        "dt": "2021-06-04",
+        "shares": 1512493.0,
+        "weight": 1.31,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 3180,
+        "symbol": "BEKE",
+        "name": "KE Holdings Inc. American Depositary Shares (each representing three Class A Ordinary Shares)",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3180,
+        "dt": "2021-06-04",
+        "shares": 2597714.0,
+        "weight": 0.6,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 3180,
+        "symbol": "BEKE",
+        "name": "KE Holdings Inc. American Depositary Shares (each representing three Class A Ordinary Shares)",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 3180,
+        "dt": "2021-06-04",
+        "shares": 785789.0,
+        "weight": 1.01,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "OPEN": [
+      {
+        "id": 4544,
+        "symbol": "OPEN",
+        "name": "Opendoor Technologies Inc Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 4544,
+        "dt": "2021-06-04",
+        "shares": 4290295.0,
+        "weight": 1.31,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 4544,
+        "symbol": "OPEN",
+        "name": "Opendoor Technologies Inc Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4544,
+        "dt": "2021-06-04",
+        "shares": 5614953.0,
+        "weight": 2.55,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "SNAP": [
+      {
+        "id": 3818,
+        "symbol": "SNAP",
+        "name": "Snap Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3818,
+        "dt": "2021-06-04",
+        "shares": 1100456.0,
+        "weight": 1.25,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 3818,
+        "symbol": "SNAP",
+        "name": "Snap Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 3818,
+        "dt": "2021-06-04",
+        "shares": 1747376.0,
+        "weight": 2.95,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "LC": [
+      {
+        "id": 8946,
+        "symbol": "LC",
+        "name": "LendingClub Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8946,
+        "dt": "2021-06-04",
+        "shares": 3973768.0,
+        "weight": 1.2,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8946,
+        "symbol": "LC",
+        "name": "LendingClub Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8946,
+        "dt": "2021-06-04",
+        "shares": 2498999.0,
+        "weight": 1.12,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "PD": [
+      {
+        "id": 2554,
+        "symbol": "PD",
+        "name": "PagerDuty, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 2554,
+        "dt": "2021-06-04",
+        "shares": 1554817.0,
+        "weight": 1.18,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 2554,
+        "symbol": "PD",
+        "name": "PagerDuty, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 2554,
+        "dt": "2021-06-04",
+        "shares": 5533428.0,
+        "weight": 1.12,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "NFLX": [
+      {
+        "id": 9279,
+        "symbol": "NFLX",
+        "name": "Netflix, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 9279,
+        "dt": "2021-06-04",
+        "shares": 123160.0,
+        "weight": 1.13,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "DOCU": [
+      {
+        "id": 872,
+        "symbol": "DOCU",
+        "name": "DocuSign, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 872,
+        "dt": "2021-06-04",
+        "shares": 277818.0,
+        "weight": 1.01,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 872,
+        "symbol": "DOCU",
+        "name": "DocuSign, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 872,
+        "dt": "2021-06-04",
+        "shares": 2309513.0,
+        "weight": 2.23,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 872,
+        "symbol": "DOCU",
+        "name": "DocuSign, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 872,
+        "dt": "2021-06-04",
+        "shares": 370586.0,
+        "weight": 2.01,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "HUYA": [
+      {
+        "id": 5180,
+        "symbol": "HUYA",
+        "name": "HUYA Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 5180,
+        "dt": "2021-06-04",
+        "shares": 3257117.0,
+        "weight": 0.92,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 5180,
+        "symbol": "HUYA",
+        "name": "HUYA Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 5180,
+        "dt": "2021-06-04",
+        "shares": 1151516.0,
+        "weight": 0.09,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      }
+    ],
+    "TWOU": [
+      {
+        "id": 4133,
+        "symbol": "TWOU",
+        "name": "2U, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 4133,
+        "dt": "2021-06-04",
+        "shares": 1365754.0,
+        "weight": 0.89,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 4133,
+        "symbol": "TWOU",
+        "name": "2U, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 4133,
+        "dt": "2021-06-04",
+        "shares": 5901684.0,
+        "weight": 1.02,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 4133,
+        "symbol": "TWOU",
+        "name": "2U, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 4133,
+        "dt": "2021-06-04",
+        "shares": 932858.0,
+        "weight": 1.11,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "MELI": [
+      {
+        "id": 2216,
+        "symbol": "MELI",
+        "name": "MercadoLibre, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 2216,
+        "dt": "2021-06-04",
+        "shares": 33785.0,
+        "weight": 0.84,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 2216,
+        "symbol": "MELI",
+        "name": "MercadoLibre, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 2216,
+        "dt": "2021-06-04",
+        "shares": 85309.0,
+        "weight": 3.15,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "VUZI": [
+      {
+        "id": 8969,
+        "symbol": "VUZI",
+        "name": "Vuzix Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8969,
+        "dt": "2021-06-04",
+        "shares": 1487942.0,
+        "weight": 0.53,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 8969,
+        "symbol": "VUZI",
+        "name": "Vuzix Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8969,
+        "dt": "2021-06-04",
+        "shares": 2171143.0,
+        "weight": 1.41,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "ETSY": [
+      {
+        "id": 8855,
+        "symbol": "ETSY",
+        "name": "Etsy, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 8855,
+        "dt": "2021-06-04",
+        "shares": 157379.0,
+        "weight": 0.49,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "DIS": [
+      {
+        "id": 4521,
+        "symbol": "DIS",
+        "name": "The Walt Disney Company",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 4521,
+        "dt": "2021-06-04",
+        "shares": 146856.0,
+        "weight": 0.48,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "ICE": [
+      {
+        "id": 1672,
+        "symbol": "ICE",
+        "name": "Intercontinental Exchange  Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 1672,
+        "dt": "2021-06-04",
+        "shares": 9331.0,
+        "weight": 0.02,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      },
+      {
+        "id": 1672,
+        "symbol": "ICE",
+        "name": "Intercontinental Exchange  Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 1672,
+        "dt": "2021-06-04",
+        "shares": 863027.0,
+        "weight": 0.48,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 1672,
+        "symbol": "ICE",
+        "name": "Intercontinental Exchange  Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 1672,
+        "dt": "2021-06-04",
+        "shares": 697217.0,
+        "weight": 2.17,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "SNOW": [
+      {
+        "id": 3821,
+        "symbol": "SNOW",
+        "name": "Snowflake Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4548,
+        "holding_id": 3821,
+        "dt": "2021-06-04",
+        "shares": 98.0,
+        "weight": 0.0,
+        "etf_name": "ARKW",
+        "weight_diff": 0
+      }
+    ],
+    "IRDM": [
+      {
+        "id": 3602,
+        "symbol": "IRDM",
+        "name": "Iridium Communications Inc Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 3602,
+        "dt": "2021-06-04",
+        "shares": 8189555.0,
+        "weight": 1.5,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 3602,
+        "symbol": "IRDM",
+        "name": "Iridium Communications Inc Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 3602,
+        "dt": "2021-06-04",
+        "shares": 2999602.0,
+        "weight": 3.82,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "TER": [
+      {
+        "id": 8366,
+        "symbol": "TER",
+        "name": "Teradyne, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4707,
+        "holding_id": 8366,
+        "dt": "2021-06-04",
+        "shares": 1899649.0,
+        "weight": 1.21,
+        "etf_name": "ARKK",
+        "weight_diff": 0
+      },
+      {
+        "id": 8366,
+        "symbol": "TER",
+        "name": "Teradyne, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8366,
+        "dt": "2021-06-04",
+        "shares": 896204.0,
+        "weight": 3.96,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "PINS": [
+      {
+        "id": 7726,
+        "symbol": "PINS",
+        "name": "Pinterest, Inc. Class A Common Stock",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 7726,
+        "dt": "2021-06-04",
+        "shares": 1954725.0,
+        "weight": 3.41,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "FB": [
+      {
+        "id": 4852,
+        "symbol": "FB",
+        "name": "Facebook, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4852,
+        "dt": "2021-06-04",
+        "shares": 285700.0,
+        "weight": 2.6,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "SI": [
+      {
+        "id": 4730,
+        "symbol": "SI",
+        "name": "Silvergate Capital Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4730,
+        "dt": "2021-06-04",
+        "shares": 691953.0,
+        "weight": 2.15,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "INTU": [
+      {
+        "id": 8886,
+        "symbol": "INTU",
+        "name": "Intuit Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8886,
+        "dt": "2021-06-04",
+        "shares": 151847.0,
+        "weight": 1.91,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "WDAY": [
+      {
+        "id": 4193,
+        "symbol": "WDAY",
+        "name": "Workday, Inc. Class A Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4193,
+        "dt": "2021-06-04",
+        "shares": 280326.0,
+        "weight": 1.73,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "BABA": [
+      {
+        "id": 8824,
+        "symbol": "BABA",
+        "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8824,
+        "dt": "2021-06-04",
+        "shares": 252647.0,
+        "weight": 1.53,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      },
+      {
+        "id": 8824,
+        "symbol": "BABA",
+        "name": "Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8824,
+        "dt": "2021-06-04",
+        "shares": 129495.0,
+        "weight": 0.97,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "AMZN": [
+      {
+        "id": 4611,
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4611,
+        "dt": "2021-06-04",
+        "shares": 12410.0,
+        "weight": 1.1,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "BILL": [
+      {
+        "id": 3885,
+        "symbol": "BILL",
+        "name": "Bill.com Holdings, Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 3885,
+        "dt": "2021-06-04",
+        "shares": 263038.0,
+        "weight": 1.07,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "SCHW": [
+      {
+        "id": 2997,
+        "symbol": "SCHW",
+        "name": "The Charles Schwab Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 2997,
+        "dt": "2021-06-04",
+        "shares": 488788.0,
+        "weight": 1.04,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "STNE": [
+      {
+        "id": 6193,
+        "symbol": "STNE",
+        "name": "StoneCo Ltd. Class A Common Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 6193,
+        "dt": "2021-06-04",
+        "shares": 578141.0,
+        "weight": 1.03,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "HDB": [
+      {
+        "id": 4515,
+        "symbol": "HDB",
+        "name": "HDFC Bank Limited",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 4515,
+        "dt": "2021-06-04",
+        "shares": 257744.0,
+        "weight": 0.55,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      }
+    ],
+    "GOOG": [
+      {
+        "id": 8913,
+        "symbol": "GOOG",
+        "name": "Alphabet Inc. Class C Capital Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 4736,
+        "holding_id": 8913,
+        "dt": "2021-06-04",
+        "shares": 4496.0,
+        "weight": 0.3,
+        "etf_name": "ARKF",
+        "weight_diff": 0
+      },
+      {
+        "id": 8913,
+        "symbol": "GOOG",
+        "name": "Alphabet Inc. Class C Capital Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8913,
+        "dt": "2021-06-04",
+        "shares": 57463.0,
+        "weight": 4.76,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "KTOS": [
+      {
+        "id": 3628,
+        "symbol": "KTOS",
+        "name": "Kratos Defense & Security Solutions, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 3628,
+        "dt": "2021-06-04",
+        "shares": 6380882.0,
+        "weight": 5.63,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "BIDU": [
+      {
+        "id": 8879,
+        "symbol": "BIDU",
+        "name": "Baidu, Inc. ADS",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8879,
+        "dt": "2021-06-04",
+        "shares": 681179.0,
+        "weight": 4.45,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "NXPI": [
+      {
+        "id": 5584,
+        "symbol": "NXPI",
+        "name": "NXP Semiconductors N.V. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 5584,
+        "dt": "2021-06-04",
+        "shares": 454769.0,
+        "weight": 3.14,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "LMT": [
+      {
+        "id": 2254,
+        "symbol": "LMT",
+        "name": "Lockheed Martin Corp.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 2254,
+        "dt": "2021-06-04",
+        "shares": 220644.0,
+        "weight": 2.94,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "DE": [
+      {
+        "id": 8668,
+        "symbol": "DE",
+        "name": "Deere & Company",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8668,
+        "dt": "2021-06-04",
+        "shares": 220574.0,
+        "weight": 2.73,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "NIU": [
+      {
+        "id": 7630,
+        "symbol": "NIU",
+        "name": "Niu Technologies American Depositary Shares",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 7630,
+        "dt": "2021-06-04",
+        "shares": 2229917.0,
+        "weight": 2.57,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "MGA": [
+      {
+        "id": 2361,
+        "symbol": "MGA",
+        "name": "Magna International",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 2361,
+        "dt": "2021-06-04",
+        "shares": 641101.0,
+        "weight": 2.25,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "CAT": [
+      {
+        "id": 3218,
+        "symbol": "CAT",
+        "name": "Caterpillar Inc.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 3218,
+        "dt": "2021-06-04",
+        "shares": 245147.0,
+        "weight": 2.06,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "RAVN": [
+      {
+        "id": 2637,
+        "symbol": "RAVN",
+        "name": "Raven Industries, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 2637,
+        "dt": "2021-06-04",
+        "shares": 1245697.0,
+        "weight": 1.91,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "ISRG": [
+      {
+        "id": 1983,
+        "symbol": "ISRG",
+        "name": "Intuitive Surgical, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 1983,
+        "dt": "2021-06-04",
+        "shares": 52282.0,
+        "weight": 1.47,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "AVAV": [
+      {
+        "id": 39,
+        "symbol": "AVAV",
+        "name": "AeroVironment, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 39,
+        "dt": "2021-06-04",
+        "shares": 384545.0,
+        "weight": 1.45,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "NVDA": [
+      {
+        "id": 4854,
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 4854,
+        "dt": "2021-06-04",
+        "shares": 59176.0,
+        "weight": 1.38,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "TDY": [
+      {
+        "id": 8422,
+        "symbol": "TDY",
+        "name": "Teledyne Technologies Incorporated",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8422,
+        "dt": "2021-06-04",
+        "shares": 91162.0,
+        "weight": 1.32,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "SNPS": [
+      {
+        "id": 6127,
+        "symbol": "SNPS",
+        "name": "Synopsys, Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 6127,
+        "dt": "2021-06-04",
+        "shares": 132681.0,
+        "weight": 1.14,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "ACIC": [
+      {
+        "id": 6859,
+        "symbol": "ACIC",
+        "name": "Atlas Crest Investment Corp.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 6859,
+        "dt": "2021-06-04",
+        "shares": 2988461.0,
+        "weight": 1.02,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "PCAR": [
+      {
+        "id": 131,
+        "symbol": "PCAR",
+        "name": "PACCAR Inc. Common Stock",
+        "exchange": "NASDAQ",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 131,
+        "dt": "2021-06-04",
+        "shares": 302552.0,
+        "weight": 0.97,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "SPFR": [
+      {
+        "id": 3120,
+        "symbol": "SPFR",
+        "name": "Jaws Spitfire Acquisition Corporation",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 3120,
+        "dt": "2021-06-04",
+        "shares": 2734886.0,
+        "weight": 0.94,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "AONE": [
+      {
+        "id": 6515,
+        "symbol": "AONE",
+        "name": "one",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 6515,
+        "dt": "2021-06-04",
+        "shares": 2143411.0,
+        "weight": 0.74,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ],
+    "GLEO": [
+      {
+        "id": 8169,
+        "symbol": "GLEO",
+        "name": "Galileo Acquisition Corp.",
+        "exchange": "NYSE",
+        "shortable": false,
+        "is_etf": false,
+        "etf_id": 6824,
+        "holding_id": 8169,
+        "dt": "2021-06-04",
+        "shares": 1191688.0,
+        "weight": 0.41,
+        "etf_name": "ARKQ",
+        "weight_diff": 0
+      }
+    ]
+  }
+}
